@@ -1,0 +1,7177 @@
+[
+  {
+    "dexNumber": 1,
+    "nameZh": "妙蛙種子",
+    "nameEn": "Bulbasaur",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 2,
+    "nameZh": "妙蛙草",
+    "nameEn": "Ivysaur",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 3,
+    "nameZh": "妙蛙花",
+    "nameEn": "Venusaur",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 4,
+    "nameZh": "小火龍",
+    "nameEn": "Charmander",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 5,
+    "nameZh": "火恐龍",
+    "nameEn": "Charmeleon",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 6,
+    "nameZh": "噴火龍",
+    "nameEn": "Charizard",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 7,
+    "nameZh": "傑尼龜",
+    "nameEn": "Squirtle",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 8,
+    "nameZh": "卡咪龜",
+    "nameEn": "Wartortle",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 9,
+    "nameZh": "水箭龜",
+    "nameEn": "Blastoise",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 10,
+    "nameZh": "綠毛蟲",
+    "nameEn": "Caterpie",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 11,
+    "nameZh": "鐵甲蛹",
+    "nameEn": "Metapod",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 12,
+    "nameZh": "巴大蝶",
+    "nameEn": "Butterfree",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 13,
+    "nameZh": "獨角蟲",
+    "nameEn": "Weedle",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 14,
+    "nameZh": "鐵殼蛹",
+    "nameEn": "Kakuna",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 15,
+    "nameZh": "大針蜂",
+    "nameEn": "Beedrill",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 16,
+    "nameZh": "波波",
+    "nameEn": "Pidgey",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 17,
+    "nameZh": "比比鳥",
+    "nameEn": "Pidgeotto",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 18,
+    "nameZh": "大比鳥",
+    "nameEn": "Pidgeot",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 19,
+    "nameZh": "小拉達",
+    "nameEn": "Rattata",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 20,
+    "nameZh": "拉達",
+    "nameEn": "Raticate",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 21,
+    "nameZh": "烈雀",
+    "nameEn": "Spearow",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 22,
+    "nameZh": "大嘴雀",
+    "nameEn": "Fearow",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 23,
+    "nameZh": "阿柏蛇",
+    "nameEn": "Ekans",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 24,
+    "nameZh": "阿柏怪",
+    "nameEn": "Arbok",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 25,
+    "nameZh": "皮卡丘",
+    "nameEn": "Pikachu",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 26,
+    "nameZh": "雷丘",
+    "nameEn": "Raichu",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 27,
+    "nameZh": "穿山鼠",
+    "nameEn": "Sandshrew",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 28,
+    "nameZh": "穿山王",
+    "nameEn": "Sandslash",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 29,
+    "nameZh": "尼多蘭",
+    "nameEn": "Nidoran♀",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 30,
+    "nameZh": "尼多娜",
+    "nameEn": "Nidorina",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 31,
+    "nameZh": "尼多后",
+    "nameEn": "Nidoqueen",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 32,
+    "nameZh": "尼多朗",
+    "nameEn": "Nidoran♂",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 33,
+    "nameZh": "尼多力諾",
+    "nameEn": "Nidorino",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 34,
+    "nameZh": "尼多王",
+    "nameEn": "Nidoking",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 35,
+    "nameZh": "皮皮",
+    "nameEn": "Clefairy",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 36,
+    "nameZh": "皮可西",
+    "nameEn": "Clefable",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 37,
+    "nameZh": "六尾",
+    "nameEn": "Vulpix",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 38,
+    "nameZh": "九尾",
+    "nameEn": "Ninetales",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 39,
+    "nameZh": "胖丁",
+    "nameEn": "Jigglypuff",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 40,
+    "nameZh": "胖可丁",
+    "nameEn": "Wigglytuff",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 41,
+    "nameZh": "超音蝠",
+    "nameEn": "Zubat",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 42,
+    "nameZh": "大嘴蝠",
+    "nameEn": "Golbat",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 43,
+    "nameZh": "走路草",
+    "nameEn": "Oddish",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 44,
+    "nameZh": "臭臭花",
+    "nameEn": "Gloom",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 45,
+    "nameZh": "霸王花",
+    "nameEn": "Vileplume",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 46,
+    "nameZh": "派拉斯",
+    "nameEn": "Paras",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 47,
+    "nameZh": "派拉斯特",
+    "nameEn": "Parasect",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 48,
+    "nameZh": "毛球",
+    "nameEn": "Venonat",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 49,
+    "nameZh": "摩魯蛾",
+    "nameEn": "Venomoth",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 50,
+    "nameZh": "地鼠",
+    "nameEn": "Diglett",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 51,
+    "nameZh": "三地鼠",
+    "nameEn": "Dugtrio",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 52,
+    "nameZh": "喵喵",
+    "nameEn": "Meowth",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 53,
+    "nameZh": "貓老大",
+    "nameEn": "Persian",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 54,
+    "nameZh": "可達鴨",
+    "nameEn": "Psyduck",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 55,
+    "nameZh": "哥達鴨",
+    "nameEn": "Golduck",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 56,
+    "nameZh": "猴怪",
+    "nameEn": "Mankey",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 57,
+    "nameZh": "火爆猴",
+    "nameEn": "Primeape",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 58,
+    "nameZh": "卡蒂狗",
+    "nameEn": "Growlithe",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 59,
+    "nameZh": "風速狗",
+    "nameEn": "Arcanine",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 60,
+    "nameZh": "蚊香蝌蚪",
+    "nameEn": "Poliwag",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 61,
+    "nameZh": "蚊香君",
+    "nameEn": "Poliwhirl",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 62,
+    "nameZh": "蚊香泳士",
+    "nameEn": "Poliwrath",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 63,
+    "nameZh": "凱西",
+    "nameEn": "Abra",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 64,
+    "nameZh": "勇基拉",
+    "nameEn": "Kadabra",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 65,
+    "nameZh": "胡地",
+    "nameEn": "Alakazam",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 66,
+    "nameZh": "腕力",
+    "nameEn": "Machop",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 67,
+    "nameZh": "豪力",
+    "nameEn": "Machoke",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 68,
+    "nameZh": "怪力",
+    "nameEn": "Machamp",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 69,
+    "nameZh": "喇叭芽",
+    "nameEn": "Bellsprout",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 70,
+    "nameZh": "口呆花",
+    "nameEn": "Weepinbell",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 71,
+    "nameZh": "大食花",
+    "nameEn": "Victreebel",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 72,
+    "nameZh": "瑪瑙水母",
+    "nameEn": "Tentacool",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 73,
+    "nameZh": "毒刺水母",
+    "nameEn": "Tentacruel",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 74,
+    "nameZh": "小拳石",
+    "nameEn": "Geodude",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 75,
+    "nameZh": "隆隆石",
+    "nameEn": "Graveler",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 76,
+    "nameZh": "隆隆岩",
+    "nameEn": "Golem",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 77,
+    "nameZh": "小火馬",
+    "nameEn": "Ponyta",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 78,
+    "nameZh": "烈焰馬",
+    "nameEn": "Rapidash",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 79,
+    "nameZh": "呆呆獸",
+    "nameEn": "Slowpoke",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 80,
+    "nameZh": "呆殼獸",
+    "nameEn": "Slowbro",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 81,
+    "nameZh": "小磁怪",
+    "nameEn": "Magnemite",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 82,
+    "nameZh": "三合一磁怪",
+    "nameEn": "Magneton",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 83,
+    "nameZh": "大蔥鴨",
+    "nameEn": "Farfetch’d",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 84,
+    "nameZh": "嘟嘟",
+    "nameEn": "Doduo",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 85,
+    "nameZh": "嘟嘟利",
+    "nameEn": "Dodrio",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 86,
+    "nameZh": "小海獅",
+    "nameEn": "Seel",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 87,
+    "nameZh": "白海獅",
+    "nameEn": "Dewgong",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 88,
+    "nameZh": "臭泥",
+    "nameEn": "Grimer",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 89,
+    "nameZh": "臭臭泥",
+    "nameEn": "Muk",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 90,
+    "nameZh": "大舌貝",
+    "nameEn": "Shellder",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 91,
+    "nameZh": "刺甲貝",
+    "nameEn": "Cloyster",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 92,
+    "nameZh": "鬼斯",
+    "nameEn": "Gastly",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 93,
+    "nameZh": "鬼斯通",
+    "nameEn": "Haunter",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 94,
+    "nameZh": "耿鬼",
+    "nameEn": "Gengar",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 95,
+    "nameZh": "大岩蛇",
+    "nameEn": "Onix",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 96,
+    "nameZh": "催眠貘",
+    "nameEn": "Drowzee",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 97,
+    "nameZh": "引夢貘人",
+    "nameEn": "Hypno",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 98,
+    "nameZh": "大鉗蟹",
+    "nameEn": "Krabby",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 99,
+    "nameZh": "巨鉗蟹",
+    "nameEn": "Kingler",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 100,
+    "nameZh": "霹靂電球",
+    "nameEn": "Voltorb",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 101,
+    "nameZh": "頑皮雷彈",
+    "nameEn": "Electrode",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 102,
+    "nameZh": "蛋蛋",
+    "nameEn": "Exeggcute",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 103,
+    "nameZh": "椰蛋樹",
+    "nameEn": "Exeggutor",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 104,
+    "nameZh": "卡拉卡拉",
+    "nameEn": "Cubone",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 105,
+    "nameZh": "嘎啦嘎啦",
+    "nameEn": "Marowak",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 106,
+    "nameZh": "飛腿郎",
+    "nameEn": "Hitmonlee",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 107,
+    "nameZh": "快拳郎",
+    "nameEn": "Hitmonchan",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 108,
+    "nameZh": "大舌頭",
+    "nameEn": "Lickitung",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 109,
+    "nameZh": "瓦斯彈",
+    "nameEn": "Koffing",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 110,
+    "nameZh": "雙彈瓦斯",
+    "nameEn": "Weezing",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 111,
+    "nameZh": "獨角犀牛",
+    "nameEn": "Rhyhorn",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 112,
+    "nameZh": "鑽角犀獸",
+    "nameEn": "Rhydon",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 113,
+    "nameZh": "吉利蛋",
+    "nameEn": "Chansey",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 114,
+    "nameZh": "蔓藤怪",
+    "nameEn": "Tangela",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 115,
+    "nameZh": "袋獸",
+    "nameEn": "Kangaskhan",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 116,
+    "nameZh": "墨海馬",
+    "nameEn": "Horsea",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 117,
+    "nameZh": "海刺龍",
+    "nameEn": "Seadra",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 118,
+    "nameZh": "角金魚",
+    "nameEn": "Goldeen",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 119,
+    "nameZh": "金魚王",
+    "nameEn": "Seaking",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 120,
+    "nameZh": "海星星",
+    "nameEn": "Staryu",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 121,
+    "nameZh": "寶石海星",
+    "nameEn": "Starmie",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 122,
+    "nameZh": "魔牆人偶",
+    "nameEn": "Mr. Mime",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 123,
+    "nameZh": "飛天螳螂",
+    "nameEn": "Scyther",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 124,
+    "nameZh": "迷唇姐",
+    "nameEn": "Jynx",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 125,
+    "nameZh": "電擊獸",
+    "nameEn": "Electabuzz",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 126,
+    "nameZh": "鴨嘴火獸",
+    "nameEn": "Magmar",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 127,
+    "nameZh": "凱羅斯",
+    "nameEn": "Pinsir",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 128,
+    "nameZh": "肯泰羅",
+    "nameEn": "Tauros",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 129,
+    "nameZh": "鯉魚王",
+    "nameEn": "Magikarp",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 130,
+    "nameZh": "暴鯉龍",
+    "nameEn": "Gyarados",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 131,
+    "nameZh": "拉普拉斯",
+    "nameEn": "Lapras",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 132,
+    "nameZh": "百變怪",
+    "nameEn": "Ditto",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 133,
+    "nameZh": "伊布",
+    "nameEn": "Eevee",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 134,
+    "nameZh": "水伊布",
+    "nameEn": "Vaporeon",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 135,
+    "nameZh": "雷伊布",
+    "nameEn": "Jolteon",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 136,
+    "nameZh": "火伊布",
+    "nameEn": "Flareon",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 137,
+    "nameZh": "多邊獸",
+    "nameEn": "Porygon",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 138,
+    "nameZh": "菊石獸",
+    "nameEn": "Omanyte",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 139,
+    "nameZh": "多刺菊石獸",
+    "nameEn": "Omastar",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 140,
+    "nameZh": "化石盔",
+    "nameEn": "Kabuto",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 141,
+    "nameZh": "鐮刀盔",
+    "nameEn": "Kabutops",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 142,
+    "nameZh": "化石翼龍",
+    "nameEn": "Aerodactyl",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 143,
+    "nameZh": "卡比獸",
+    "nameEn": "Snorlax",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 144,
+    "nameZh": "急凍鳥",
+    "nameEn": "Articuno",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 145,
+    "nameZh": "閃電鳥",
+    "nameEn": "Zapdos",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 146,
+    "nameZh": "火焰鳥",
+    "nameEn": "Moltres",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 147,
+    "nameZh": "迷你龍",
+    "nameEn": "Dratini",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 148,
+    "nameZh": "哈克龍",
+    "nameEn": "Dragonair",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 149,
+    "nameZh": "快龍",
+    "nameEn": "Dragonite",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 150,
+    "nameZh": "超夢",
+    "nameEn": "Mewtwo",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 151,
+    "nameZh": "夢幻",
+    "nameEn": "Mew",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 152,
+    "nameZh": "菊草葉",
+    "nameEn": "Chikorita",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 153,
+    "nameZh": "月桂葉",
+    "nameEn": "Bayleef",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 154,
+    "nameZh": "大竺葵",
+    "nameEn": "Meganium",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 155,
+    "nameZh": "火球鼠",
+    "nameEn": "Cyndaquil",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 156,
+    "nameZh": "火岩鼠",
+    "nameEn": "Quilava",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 157,
+    "nameZh": "火爆獸",
+    "nameEn": "Typhlosion",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 158,
+    "nameZh": "小鋸鱷",
+    "nameEn": "Totodile",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 159,
+    "nameZh": "藍鱷",
+    "nameEn": "Croconaw",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 160,
+    "nameZh": "大力鱷",
+    "nameEn": "Feraligatr",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 161,
+    "nameZh": "尾立",
+    "nameEn": "Sentret",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 162,
+    "nameZh": "大尾立",
+    "nameEn": "Furret",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 163,
+    "nameZh": "咕咕",
+    "nameEn": "Hoothoot",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 164,
+    "nameZh": "貓頭夜鷹",
+    "nameEn": "Noctowl",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 165,
+    "nameZh": "芭瓢蟲",
+    "nameEn": "Ledyba",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 166,
+    "nameZh": "安瓢蟲",
+    "nameEn": "Ledian",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 167,
+    "nameZh": "圓絲蛛",
+    "nameEn": "Spinarak",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 168,
+    "nameZh": "阿利多斯",
+    "nameEn": "Ariados",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 169,
+    "nameZh": "叉字蝠",
+    "nameEn": "Crobat",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 170,
+    "nameZh": "燈籠魚",
+    "nameEn": "Chinchou",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 171,
+    "nameZh": "電燈怪",
+    "nameEn": "Lanturn",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 172,
+    "nameZh": "皮丘",
+    "nameEn": "Pichu",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 173,
+    "nameZh": "皮寶寶",
+    "nameEn": "Cleffa",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 174,
+    "nameZh": "寶寶丁",
+    "nameEn": "Igglybuff",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 175,
+    "nameZh": "波克比",
+    "nameEn": "Togepi",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 176,
+    "nameZh": "波克基古",
+    "nameEn": "Togetic",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 177,
+    "nameZh": "天然雀",
+    "nameEn": "Natu",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 178,
+    "nameZh": "天然鳥",
+    "nameEn": "Xatu",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 179,
+    "nameZh": "咩利羊",
+    "nameEn": "Mareep",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 180,
+    "nameZh": "茸茸羊",
+    "nameEn": "Flaaffy",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 181,
+    "nameZh": "電龍",
+    "nameEn": "Ampharos",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 182,
+    "nameZh": "美麗花",
+    "nameEn": "Bellossom",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 183,
+    "nameZh": "瑪力露",
+    "nameEn": "Marill",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 184,
+    "nameZh": "瑪力露麗",
+    "nameEn": "Azumarill",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 185,
+    "nameZh": "樹才怪",
+    "nameEn": "Sudowoodo",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 186,
+    "nameZh": "蚊香蛙皇",
+    "nameEn": "Politoed",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 187,
+    "nameZh": "毽子草",
+    "nameEn": "Hoppip",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 188,
+    "nameZh": "毽子花",
+    "nameEn": "Skiploom",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 189,
+    "nameZh": "毽子棉",
+    "nameEn": "Jumpluff",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 190,
+    "nameZh": "長尾怪手",
+    "nameEn": "Aipom",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 191,
+    "nameZh": "向日種子",
+    "nameEn": "Sunkern",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 192,
+    "nameZh": "向日花怪",
+    "nameEn": "Sunflora",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 193,
+    "nameZh": "蜻蜻蜓",
+    "nameEn": "Yanma",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 194,
+    "nameZh": "烏波",
+    "nameEn": "Wooper",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 195,
+    "nameZh": "沼王",
+    "nameEn": "Quagsire",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 196,
+    "nameZh": "太陽伊布",
+    "nameEn": "Espeon",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 197,
+    "nameZh": "月亮伊布",
+    "nameEn": "Umbreon",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 198,
+    "nameZh": "黑暗鴉",
+    "nameEn": "Murkrow",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 199,
+    "nameZh": "呆呆王",
+    "nameEn": "Slowking",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 200,
+    "nameZh": "夢妖",
+    "nameEn": "Misdreavus",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 201,
+    "nameZh": "未知圖騰",
+    "nameEn": "Unown",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 202,
+    "nameZh": "果然翁",
+    "nameEn": "Wobbuffet",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 203,
+    "nameZh": "麒麟奇",
+    "nameEn": "Girafarig",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 204,
+    "nameZh": "榛果球",
+    "nameEn": "Pineco",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 205,
+    "nameZh": "佛烈托斯",
+    "nameEn": "Forretress",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 206,
+    "nameZh": "土龍弟弟",
+    "nameEn": "Dunsparce",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 207,
+    "nameZh": "天蠍",
+    "nameEn": "Gligar",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 208,
+    "nameZh": "大鋼蛇",
+    "nameEn": "Steelix",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 209,
+    "nameZh": "布魯",
+    "nameEn": "Snubbull",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 210,
+    "nameZh": "布魯皇",
+    "nameEn": "Granbull",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 211,
+    "nameZh": "千針魚",
+    "nameEn": "Qwilfish",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 212,
+    "nameZh": "巨鉗螳螂",
+    "nameEn": "Scizor",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 213,
+    "nameZh": "壺壺",
+    "nameEn": "Shuckle",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 214,
+    "nameZh": "赫拉克羅斯",
+    "nameEn": "Heracross",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 215,
+    "nameZh": "狃拉",
+    "nameEn": "Sneasel",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 216,
+    "nameZh": "熊寶寶",
+    "nameEn": "Teddiursa",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 217,
+    "nameZh": "圈圈熊",
+    "nameEn": "Ursaring",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 218,
+    "nameZh": "熔岩蟲",
+    "nameEn": "Slugma",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 219,
+    "nameZh": "熔岩蝸牛",
+    "nameEn": "Magcargo",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 220,
+    "nameZh": "小山豬",
+    "nameEn": "Swinub",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 221,
+    "nameZh": "長毛豬",
+    "nameEn": "Piloswine",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 222,
+    "nameZh": "太陽珊瑚",
+    "nameEn": "Corsola",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 223,
+    "nameZh": "鐵炮魚",
+    "nameEn": "Remoraid",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 224,
+    "nameZh": "章魚桶",
+    "nameEn": "Octillery",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 225,
+    "nameZh": "信使鳥",
+    "nameEn": "Delibird",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 226,
+    "nameZh": "巨翅飛魚",
+    "nameEn": "Mantine",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 227,
+    "nameZh": "盔甲鳥",
+    "nameEn": "Skarmory",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 228,
+    "nameZh": "戴魯比",
+    "nameEn": "Houndour",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 229,
+    "nameZh": "黑魯加",
+    "nameEn": "Houndoom",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 230,
+    "nameZh": "刺龍王",
+    "nameEn": "Kingdra",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 231,
+    "nameZh": "小小象",
+    "nameEn": "Phanpy",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 232,
+    "nameZh": "頓甲",
+    "nameEn": "Donphan",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 233,
+    "nameZh": "多邊獸Ⅱ",
+    "nameEn": "Porygon2",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 234,
+    "nameZh": "驚角鹿",
+    "nameEn": "Stantler",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 235,
+    "nameZh": "圖圖犬",
+    "nameEn": "Smeargle",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 236,
+    "nameZh": "無畏小子",
+    "nameEn": "Tyrogue",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 237,
+    "nameZh": "戰舞郎",
+    "nameEn": "Hitmontop",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 238,
+    "nameZh": "迷唇娃",
+    "nameEn": "Smoochum",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 239,
+    "nameZh": "電擊怪",
+    "nameEn": "Elekid",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 240,
+    "nameZh": "鴨嘴寶寶",
+    "nameEn": "Magby",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 241,
+    "nameZh": "大奶罐",
+    "nameEn": "Miltank",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 242,
+    "nameZh": "幸福蛋",
+    "nameEn": "Blissey",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 243,
+    "nameZh": "雷公",
+    "nameEn": "Raikou",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 244,
+    "nameZh": "炎帝",
+    "nameEn": "Entei",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 245,
+    "nameZh": "水君",
+    "nameEn": "Suicune",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 246,
+    "nameZh": "幼基拉斯",
+    "nameEn": "Larvitar",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 247,
+    "nameZh": "沙基拉斯",
+    "nameEn": "Pupitar",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 248,
+    "nameZh": "班基拉斯",
+    "nameEn": "Tyranitar",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 249,
+    "nameZh": "洛奇亞",
+    "nameEn": "Lugia",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 250,
+    "nameZh": "鳳王",
+    "nameEn": "Ho-Oh",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 251,
+    "nameZh": "時拉比",
+    "nameEn": "Celebi",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 252,
+    "nameZh": "木守宮",
+    "nameEn": "Treecko",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 253,
+    "nameZh": "森林蜥蜴",
+    "nameEn": "Grovyle",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 254,
+    "nameZh": "蜥蜴王",
+    "nameEn": "Sceptile",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 255,
+    "nameZh": "火稚雞",
+    "nameEn": "Torchic",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 256,
+    "nameZh": "力壯雞",
+    "nameEn": "Combusken",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 257,
+    "nameZh": "火焰雞",
+    "nameEn": "Blaziken",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 258,
+    "nameZh": "水躍魚",
+    "nameEn": "Mudkip",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 259,
+    "nameZh": "沼躍魚",
+    "nameEn": "Marshtomp",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 260,
+    "nameZh": "巨沼怪",
+    "nameEn": "Swampert",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 261,
+    "nameZh": "土狼犬",
+    "nameEn": "Poochyena",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 262,
+    "nameZh": "大狼犬",
+    "nameEn": "Mightyena",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 263,
+    "nameZh": "蛇紋熊",
+    "nameEn": "Zigzagoon",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 264,
+    "nameZh": "直衝熊",
+    "nameEn": "Linoone",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 265,
+    "nameZh": "刺尾蟲",
+    "nameEn": "Wurmple",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 266,
+    "nameZh": "甲殼繭",
+    "nameEn": "Silcoon",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 267,
+    "nameZh": "狩獵鳳蝶",
+    "nameEn": "Beautifly",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 268,
+    "nameZh": "盾甲繭",
+    "nameEn": "Cascoon",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 269,
+    "nameZh": "毒粉蛾",
+    "nameEn": "Dustox",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 270,
+    "nameZh": "蓮葉童子",
+    "nameEn": "Lotad",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 271,
+    "nameZh": "蓮帽小童",
+    "nameEn": "Lombre",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 272,
+    "nameZh": "樂天河童",
+    "nameEn": "Ludicolo",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 273,
+    "nameZh": "橡實果",
+    "nameEn": "Seedot",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 274,
+    "nameZh": "長鼻葉",
+    "nameEn": "Nuzleaf",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 275,
+    "nameZh": "狡猾天狗",
+    "nameEn": "Shiftry",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 276,
+    "nameZh": "傲骨燕",
+    "nameEn": "Taillow",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 277,
+    "nameZh": "大王燕",
+    "nameEn": "Swellow",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 278,
+    "nameZh": "長翅鷗",
+    "nameEn": "Wingull",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 279,
+    "nameZh": "大嘴鷗",
+    "nameEn": "Pelipper",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 280,
+    "nameZh": "拉魯拉絲",
+    "nameEn": "Ralts",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 281,
+    "nameZh": "奇魯莉安",
+    "nameEn": "Kirlia",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 282,
+    "nameZh": "沙奈朵",
+    "nameEn": "Gardevoir",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 283,
+    "nameZh": "溜溜糖球",
+    "nameEn": "Surskit",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 284,
+    "nameZh": "雨翅蛾",
+    "nameEn": "Masquerain",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 285,
+    "nameZh": "蘑蘑菇",
+    "nameEn": "Shroomish",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 286,
+    "nameZh": "斗笠菇",
+    "nameEn": "Breloom",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 287,
+    "nameZh": "懶人獺",
+    "nameEn": "Slakoth",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 288,
+    "nameZh": "過動猿",
+    "nameEn": "Vigoroth",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 289,
+    "nameZh": "請假王",
+    "nameEn": "Slaking",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 290,
+    "nameZh": "土居忍士",
+    "nameEn": "Nincada",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 291,
+    "nameZh": "鐵面忍者",
+    "nameEn": "Ninjask",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 292,
+    "nameZh": "脫殼忍者",
+    "nameEn": "Shedinja",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 293,
+    "nameZh": "咕妞妞",
+    "nameEn": "Whismur",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 294,
+    "nameZh": "吼爆彈",
+    "nameEn": "Loudred",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 295,
+    "nameZh": "爆音怪",
+    "nameEn": "Exploud",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 296,
+    "nameZh": "幕下力士",
+    "nameEn": "Makuhita",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 297,
+    "nameZh": "鐵掌力士",
+    "nameEn": "Hariyama",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 298,
+    "nameZh": "露力麗",
+    "nameEn": "Azurill",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 299,
+    "nameZh": "朝北鼻",
+    "nameEn": "Nosepass",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 300,
+    "nameZh": "向尾喵",
+    "nameEn": "Skitty",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 301,
+    "nameZh": "優雅貓",
+    "nameEn": "Delcatty",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 302,
+    "nameZh": "勾魂眼",
+    "nameEn": "Sableye",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 303,
+    "nameZh": "大嘴娃",
+    "nameEn": "Mawile",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 304,
+    "nameZh": "可可多拉",
+    "nameEn": "Aron",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 305,
+    "nameZh": "可多拉",
+    "nameEn": "Lairon",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 306,
+    "nameZh": "波士可多拉",
+    "nameEn": "Aggron",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 307,
+    "nameZh": "瑪沙那",
+    "nameEn": "Meditite",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 308,
+    "nameZh": "恰雷姆",
+    "nameEn": "Medicham",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 309,
+    "nameZh": "落雷獸",
+    "nameEn": "Electrike",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 310,
+    "nameZh": "雷電獸",
+    "nameEn": "Manectric",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 311,
+    "nameZh": "正電拍拍",
+    "nameEn": "Plusle",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 312,
+    "nameZh": "負電拍拍",
+    "nameEn": "Minun",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 313,
+    "nameZh": "電螢蟲",
+    "nameEn": "Volbeat",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 314,
+    "nameZh": "甜甜螢",
+    "nameEn": "Illumise",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 315,
+    "nameZh": "毒薔薇",
+    "nameEn": "Roselia",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 316,
+    "nameZh": "溶食獸",
+    "nameEn": "Gulpin",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 317,
+    "nameZh": "吞食獸",
+    "nameEn": "Swalot",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 318,
+    "nameZh": "利牙魚",
+    "nameEn": "Carvanha",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 319,
+    "nameZh": "巨牙鯊",
+    "nameEn": "Sharpedo",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 320,
+    "nameZh": "吼吼鯨",
+    "nameEn": "Wailmer",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 321,
+    "nameZh": "吼鯨王",
+    "nameEn": "Wailord",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 322,
+    "nameZh": "呆火駝",
+    "nameEn": "Numel",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 323,
+    "nameZh": "噴火駝",
+    "nameEn": "Camerupt",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 324,
+    "nameZh": "煤炭龜",
+    "nameEn": "Torkoal",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 325,
+    "nameZh": "跳跳豬",
+    "nameEn": "Spoink",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 326,
+    "nameZh": "噗噗豬",
+    "nameEn": "Grumpig",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 327,
+    "nameZh": "晃晃斑",
+    "nameEn": "Spinda",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 328,
+    "nameZh": "大顎蟻",
+    "nameEn": "Trapinch",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 329,
+    "nameZh": "超音波幼蟲",
+    "nameEn": "Vibrava",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 330,
+    "nameZh": "沙漠蜻蜓",
+    "nameEn": "Flygon",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 331,
+    "nameZh": "刺球仙人掌",
+    "nameEn": "Cacnea",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 332,
+    "nameZh": "夢歌仙人掌",
+    "nameEn": "Cacturne",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 333,
+    "nameZh": "青綿鳥",
+    "nameEn": "Swablu",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 334,
+    "nameZh": "七夕青鳥",
+    "nameEn": "Altaria",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 335,
+    "nameZh": "貓鼬斬",
+    "nameEn": "Zangoose",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 336,
+    "nameZh": "飯匙蛇",
+    "nameEn": "Seviper",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 337,
+    "nameZh": "月石",
+    "nameEn": "Lunatone",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 338,
+    "nameZh": "太陽岩",
+    "nameEn": "Solrock",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 339,
+    "nameZh": "泥泥鰍",
+    "nameEn": "Barboach",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 340,
+    "nameZh": "鯰魚王",
+    "nameEn": "Whiscash",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 341,
+    "nameZh": "龍蝦小兵",
+    "nameEn": "Corphish",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 342,
+    "nameZh": "鐵螯龍蝦",
+    "nameEn": "Crawdaunt",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 343,
+    "nameZh": "天秤偶",
+    "nameEn": "Baltoy",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 344,
+    "nameZh": "念力土偶",
+    "nameEn": "Claydol",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 345,
+    "nameZh": "觸手百合",
+    "nameEn": "Lileep",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 346,
+    "nameZh": "搖籃百合",
+    "nameEn": "Cradily",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 347,
+    "nameZh": "太古羽蟲",
+    "nameEn": "Anorith",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 348,
+    "nameZh": "太古盔甲",
+    "nameEn": "Armaldo",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 349,
+    "nameZh": "醜醜魚",
+    "nameEn": "Feebas",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 350,
+    "nameZh": "美納斯",
+    "nameEn": "Milotic",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 351,
+    "nameZh": "飄浮泡泡",
+    "nameEn": "Castform",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 352,
+    "nameZh": "變隱龍",
+    "nameEn": "Kecleon",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 353,
+    "nameZh": "怨影娃娃",
+    "nameEn": "Shuppet",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 354,
+    "nameZh": "詛咒娃娃",
+    "nameEn": "Banette",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 355,
+    "nameZh": "夜巡靈",
+    "nameEn": "Duskull",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 356,
+    "nameZh": "彷徨夜靈",
+    "nameEn": "Dusclops",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 357,
+    "nameZh": "熱帶龍",
+    "nameEn": "Tropius",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 358,
+    "nameZh": "風鈴鈴",
+    "nameEn": "Chimecho",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 359,
+    "nameZh": "阿勃梭魯",
+    "nameEn": "Absol",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 360,
+    "nameZh": "小果然",
+    "nameEn": "Wynaut",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 361,
+    "nameZh": "雪童子",
+    "nameEn": "Snorunt",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 362,
+    "nameZh": "冰鬼護",
+    "nameEn": "Glalie",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 363,
+    "nameZh": "海豹球",
+    "nameEn": "Spheal",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 364,
+    "nameZh": "海魔獅",
+    "nameEn": "Sealeo",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 365,
+    "nameZh": "帝牙海獅",
+    "nameEn": "Walrein",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 366,
+    "nameZh": "珍珠貝",
+    "nameEn": "Clamperl",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 367,
+    "nameZh": "獵斑魚",
+    "nameEn": "Huntail",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 368,
+    "nameZh": "櫻花魚",
+    "nameEn": "Gorebyss",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 369,
+    "nameZh": "古空棘魚",
+    "nameEn": "Relicanth",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 370,
+    "nameZh": "愛心魚",
+    "nameEn": "Luvdisc",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 371,
+    "nameZh": "寶貝龍",
+    "nameEn": "Bagon",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 372,
+    "nameZh": "甲殼龍",
+    "nameEn": "Shelgon",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 373,
+    "nameZh": "暴飛龍",
+    "nameEn": "Salamence",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 374,
+    "nameZh": "鐵啞鈴",
+    "nameEn": "Beldum",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 375,
+    "nameZh": "金屬怪",
+    "nameEn": "Metang",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 376,
+    "nameZh": "巨金怪",
+    "nameEn": "Metagross",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 377,
+    "nameZh": "雷吉洛克",
+    "nameEn": "Regirock",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 378,
+    "nameZh": "雷吉艾斯",
+    "nameEn": "Regice",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 379,
+    "nameZh": "雷吉斯奇魯",
+    "nameEn": "Registeel",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 380,
+    "nameZh": "拉帝亞斯",
+    "nameEn": "Latias",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 381,
+    "nameZh": "拉帝歐斯",
+    "nameEn": "Latios",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 382,
+    "nameZh": "蓋歐卡",
+    "nameEn": "Kyogre",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 383,
+    "nameZh": "固拉多",
+    "nameEn": "Groudon",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 384,
+    "nameZh": "烈空坐",
+    "nameEn": "Rayquaza",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 385,
+    "nameZh": "基拉祈",
+    "nameEn": "Jirachi",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 386,
+    "nameZh": "代歐奇希斯",
+    "nameEn": "Deoxys",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 387,
+    "nameZh": "草苗龜",
+    "nameEn": "Turtwig",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 388,
+    "nameZh": "樹林龜",
+    "nameEn": "Grotle",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 389,
+    "nameZh": "土台龜",
+    "nameEn": "Torterra",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 390,
+    "nameZh": "小火焰猴",
+    "nameEn": "Chimchar",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 391,
+    "nameZh": "猛火猴",
+    "nameEn": "Monferno",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 392,
+    "nameZh": "烈焰猴",
+    "nameEn": "Infernape",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 393,
+    "nameZh": "波加曼",
+    "nameEn": "Piplup",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 394,
+    "nameZh": "波皇子",
+    "nameEn": "Prinplup",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 395,
+    "nameZh": "帝王拿波",
+    "nameEn": "Empoleon",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 396,
+    "nameZh": "姆克兒",
+    "nameEn": "Starly",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 397,
+    "nameZh": "姆克鳥",
+    "nameEn": "Staravia",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 398,
+    "nameZh": "姆克鷹",
+    "nameEn": "Staraptor",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 399,
+    "nameZh": "大牙狸",
+    "nameEn": "Bidoof",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 400,
+    "nameZh": "大尾狸",
+    "nameEn": "Bibarel",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 401,
+    "nameZh": "圓法師",
+    "nameEn": "Kricketot",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 402,
+    "nameZh": "音箱蟀",
+    "nameEn": "Kricketune",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 403,
+    "nameZh": "小貓怪",
+    "nameEn": "Shinx",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 404,
+    "nameZh": "勒克貓",
+    "nameEn": "Luxio",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 405,
+    "nameZh": "倫琴貓",
+    "nameEn": "Luxray",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 406,
+    "nameZh": "含羞苞",
+    "nameEn": "Budew",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 407,
+    "nameZh": "羅絲雷朵",
+    "nameEn": "Roserade",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 408,
+    "nameZh": "頭蓋龍",
+    "nameEn": "Cranidos",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 409,
+    "nameZh": "戰槌龍",
+    "nameEn": "Rampardos",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 410,
+    "nameZh": "盾甲龍",
+    "nameEn": "Shieldon",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 411,
+    "nameZh": "護城龍",
+    "nameEn": "Bastiodon",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 412,
+    "nameZh": "結草兒",
+    "nameEn": "Burmy",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 413,
+    "nameZh": "結草貴婦",
+    "nameEn": "Wormadam",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 414,
+    "nameZh": "紳士蛾",
+    "nameEn": "Mothim",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 415,
+    "nameZh": "三蜜蜂",
+    "nameEn": "Combee",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 416,
+    "nameZh": "蜂女王",
+    "nameEn": "Vespiquen",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 417,
+    "nameZh": "帕奇利茲",
+    "nameEn": "Pachirisu",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 418,
+    "nameZh": "泳圈鼬",
+    "nameEn": "Buizel",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 419,
+    "nameZh": "浮潛鼬",
+    "nameEn": "Floatzel",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 420,
+    "nameZh": "櫻花寶",
+    "nameEn": "Cherubi",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 421,
+    "nameZh": "櫻花兒",
+    "nameEn": "Cherrim",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 422,
+    "nameZh": "無殼海兔",
+    "nameEn": "Shellos",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 423,
+    "nameZh": "海兔獸",
+    "nameEn": "Gastrodon",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 424,
+    "nameZh": "雙尾怪手",
+    "nameEn": "Ambipom",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 425,
+    "nameZh": "飄飄球",
+    "nameEn": "Drifloon",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 426,
+    "nameZh": "隨風球",
+    "nameEn": "Drifblim",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 427,
+    "nameZh": "捲捲耳",
+    "nameEn": "Buneary",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 428,
+    "nameZh": "長耳兔",
+    "nameEn": "Lopunny",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 429,
+    "nameZh": "夢妖魔",
+    "nameEn": "Mismagius",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 430,
+    "nameZh": "烏鴉頭頭",
+    "nameEn": "Honchkrow",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 431,
+    "nameZh": "魅力喵",
+    "nameEn": "Glameow",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 432,
+    "nameZh": "東施喵",
+    "nameEn": "Purugly",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 433,
+    "nameZh": "鈴鐺響",
+    "nameEn": "Chingling",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 434,
+    "nameZh": "臭鼬噗",
+    "nameEn": "Stunky",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 435,
+    "nameZh": "坦克臭鼬",
+    "nameEn": "Skuntank",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 436,
+    "nameZh": "銅鏡怪",
+    "nameEn": "Bronzor",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 437,
+    "nameZh": "青銅鐘",
+    "nameEn": "Bronzong",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 438,
+    "nameZh": "盆才怪",
+    "nameEn": "Bonsly",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 439,
+    "nameZh": "魔尼尼",
+    "nameEn": "Mime Jr.",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 440,
+    "nameZh": "小福蛋",
+    "nameEn": "Happiny",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 441,
+    "nameZh": "聒噪鳥",
+    "nameEn": "Chatot",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 442,
+    "nameZh": "花岩怪",
+    "nameEn": "Spiritomb",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 443,
+    "nameZh": "圓陸鯊",
+    "nameEn": "Gible",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 444,
+    "nameZh": "尖牙陸鯊",
+    "nameEn": "Gabite",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 445,
+    "nameZh": "烈咬陸鯊",
+    "nameEn": "Garchomp",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 446,
+    "nameZh": "小卡比獸",
+    "nameEn": "Munchlax",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 447,
+    "nameZh": "利歐路",
+    "nameEn": "Riolu",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 448,
+    "nameZh": "路卡利歐",
+    "nameEn": "Lucario",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 449,
+    "nameZh": "沙河馬",
+    "nameEn": "Hippopotas",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 450,
+    "nameZh": "河馬獸",
+    "nameEn": "Hippowdon",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 451,
+    "nameZh": "鉗尾蠍",
+    "nameEn": "Skorupi",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 452,
+    "nameZh": "龍王蠍",
+    "nameEn": "Drapion",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 453,
+    "nameZh": "不良蛙",
+    "nameEn": "Croagunk",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 454,
+    "nameZh": "毒骷蛙",
+    "nameEn": "Toxicroak",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 455,
+    "nameZh": "尖牙籠",
+    "nameEn": "Carnivine",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 456,
+    "nameZh": "螢光魚",
+    "nameEn": "Finneon",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 457,
+    "nameZh": "霓虹魚",
+    "nameEn": "Lumineon",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 458,
+    "nameZh": "小球飛魚",
+    "nameEn": "Mantyke",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 459,
+    "nameZh": "雪笠怪",
+    "nameEn": "Snover",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 460,
+    "nameZh": "暴雪王",
+    "nameEn": "Abomasnow",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 461,
+    "nameZh": "瑪狃拉",
+    "nameEn": "Weavile",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 462,
+    "nameZh": "自爆磁怪",
+    "nameEn": "Magnezone",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 463,
+    "nameZh": "大舌舔",
+    "nameEn": "Lickilicky",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 464,
+    "nameZh": "超甲狂犀",
+    "nameEn": "Rhyperior",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 465,
+    "nameZh": "巨蔓藤",
+    "nameEn": "Tangrowth",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 466,
+    "nameZh": "電擊魔獸",
+    "nameEn": "Electivire",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 467,
+    "nameZh": "鴨嘴炎獸",
+    "nameEn": "Magmortar",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 468,
+    "nameZh": "波克基斯",
+    "nameEn": "Togekiss",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 469,
+    "nameZh": "遠古巨蜓",
+    "nameEn": "Yanmega",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 470,
+    "nameZh": "葉伊布",
+    "nameEn": "Leafeon",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 471,
+    "nameZh": "冰伊布",
+    "nameEn": "Glaceon",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 472,
+    "nameZh": "天蠍王",
+    "nameEn": "Gliscor",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 473,
+    "nameZh": "象牙豬",
+    "nameEn": "Mamoswine",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 474,
+    "nameZh": "多邊獸Ｚ",
+    "nameEn": "Porygon-Z",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 475,
+    "nameZh": "艾路雷朵",
+    "nameEn": "Gallade",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 476,
+    "nameZh": "大朝北鼻",
+    "nameEn": "Probopass",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 477,
+    "nameZh": "黑夜魔靈",
+    "nameEn": "Dusknoir",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 478,
+    "nameZh": "雪妖女",
+    "nameEn": "Froslass",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 479,
+    "nameZh": "洛托姆",
+    "nameEn": "Rotom",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 480,
+    "nameZh": "由克希",
+    "nameEn": "Uxie",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 481,
+    "nameZh": "艾姆利多",
+    "nameEn": "Mesprit",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 482,
+    "nameZh": "亞克諾姆",
+    "nameEn": "Azelf",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 483,
+    "nameZh": "帝牙盧卡",
+    "nameEn": "Dialga",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 484,
+    "nameZh": "帕路奇亞",
+    "nameEn": "Palkia",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 485,
+    "nameZh": "席多藍恩",
+    "nameEn": "Heatran",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 486,
+    "nameZh": "雷吉奇卡斯",
+    "nameEn": "Regigigas",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 487,
+    "nameZh": "騎拉帝納",
+    "nameEn": "Giratina",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 488,
+    "nameZh": "克雷色利亞",
+    "nameEn": "Cresselia",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 489,
+    "nameZh": "霏歐納",
+    "nameEn": "Phione",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 490,
+    "nameZh": "瑪納霏",
+    "nameEn": "Manaphy",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 491,
+    "nameZh": "達克萊伊",
+    "nameEn": "Darkrai",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 492,
+    "nameZh": "謝米",
+    "nameEn": "Shaymin",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 493,
+    "nameZh": "阿爾宙斯",
+    "nameEn": "Arceus",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 494,
+    "nameZh": "比克提尼",
+    "nameEn": "Victini",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 495,
+    "nameZh": "藤藤蛇",
+    "nameEn": "Snivy",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 496,
+    "nameZh": "青藤蛇",
+    "nameEn": "Servine",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 497,
+    "nameZh": "君主蛇",
+    "nameEn": "Serperior",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 498,
+    "nameZh": "暖暖豬",
+    "nameEn": "Tepig",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 499,
+    "nameZh": "炒炒豬",
+    "nameEn": "Pignite",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 500,
+    "nameZh": "炎武王",
+    "nameEn": "Emboar",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 501,
+    "nameZh": "水水獺",
+    "nameEn": "Oshawott",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 502,
+    "nameZh": "雙刃丸",
+    "nameEn": "Dewott",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 503,
+    "nameZh": "大劍鬼",
+    "nameEn": "Samurott",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 504,
+    "nameZh": "探探鼠",
+    "nameEn": "Patrat",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 505,
+    "nameZh": "步哨鼠",
+    "nameEn": "Watchog",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 506,
+    "nameZh": "小約克",
+    "nameEn": "Lillipup",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 507,
+    "nameZh": "哈約克",
+    "nameEn": "Herdier",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 508,
+    "nameZh": "長毛狗",
+    "nameEn": "Stoutland",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 509,
+    "nameZh": "扒手貓",
+    "nameEn": "Purrloin",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 510,
+    "nameZh": "酷豹",
+    "nameEn": "Liepard",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 511,
+    "nameZh": "花椰猴",
+    "nameEn": "Pansage",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 512,
+    "nameZh": "花椰猿",
+    "nameEn": "Simisage",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 513,
+    "nameZh": "爆香猴",
+    "nameEn": "Pansear",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 514,
+    "nameZh": "爆香猿",
+    "nameEn": "Simisear",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 515,
+    "nameZh": "冷水猴",
+    "nameEn": "Panpour",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 516,
+    "nameZh": "冷水猿",
+    "nameEn": "Simipour",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 517,
+    "nameZh": "食夢夢",
+    "nameEn": "Munna",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 518,
+    "nameZh": "夢夢蝕",
+    "nameEn": "Musharna",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 519,
+    "nameZh": "豆豆鴿",
+    "nameEn": "Pidove",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 520,
+    "nameZh": "咕咕鴿",
+    "nameEn": "Tranquill",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 521,
+    "nameZh": "高傲雉雞",
+    "nameEn": "Unfezant",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 522,
+    "nameZh": "斑斑馬",
+    "nameEn": "Blitzle",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 523,
+    "nameZh": "雷電斑馬",
+    "nameEn": "Zebstrika",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 524,
+    "nameZh": "石丸子",
+    "nameEn": "Roggenrola",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 525,
+    "nameZh": "地幔岩",
+    "nameEn": "Boldore",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 526,
+    "nameZh": "龐岩怪",
+    "nameEn": "Gigalith",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 527,
+    "nameZh": "滾滾蝙蝠",
+    "nameEn": "Woobat",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 528,
+    "nameZh": "心蝙蝠",
+    "nameEn": "Swoobat",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 529,
+    "nameZh": "螺釘地鼠",
+    "nameEn": "Drilbur",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 530,
+    "nameZh": "龍頭地鼠",
+    "nameEn": "Excadrill",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 531,
+    "nameZh": "差不多娃娃",
+    "nameEn": "Audino",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 532,
+    "nameZh": "搬運小匠",
+    "nameEn": "Timburr",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 533,
+    "nameZh": "鐵骨土人",
+    "nameEn": "Gurdurr",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 534,
+    "nameZh": "修建老匠",
+    "nameEn": "Conkeldurr",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 535,
+    "nameZh": "圓蝌蚪",
+    "nameEn": "Tympole",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 536,
+    "nameZh": "藍蟾蜍",
+    "nameEn": "Palpitoad",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 537,
+    "nameZh": "蟾蜍王",
+    "nameEn": "Seismitoad",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 538,
+    "nameZh": "投摔鬼",
+    "nameEn": "Throh",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 539,
+    "nameZh": "打擊鬼",
+    "nameEn": "Sawk",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 540,
+    "nameZh": "蟲寶包",
+    "nameEn": "Sewaddle",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 541,
+    "nameZh": "寶包繭",
+    "nameEn": "Swadloon",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 542,
+    "nameZh": "保母蟲",
+    "nameEn": "Leavanny",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 543,
+    "nameZh": "百足蜈蚣",
+    "nameEn": "Venipede",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 544,
+    "nameZh": "車輪毬",
+    "nameEn": "Whirlipede",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 545,
+    "nameZh": "蜈蚣王",
+    "nameEn": "Scolipede",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 546,
+    "nameZh": "木棉球",
+    "nameEn": "Cottonee",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 547,
+    "nameZh": "風妖精",
+    "nameEn": "Whimsicott",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 548,
+    "nameZh": "百合根娃娃",
+    "nameEn": "Petilil",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 549,
+    "nameZh": "裙兒小姐",
+    "nameEn": "Lilligant",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 550,
+    "nameZh": "野蠻鱸魚",
+    "nameEn": "Basculin",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 551,
+    "nameZh": "黑眼鱷",
+    "nameEn": "Sandile",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 552,
+    "nameZh": "混混鱷",
+    "nameEn": "Krokorok",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 553,
+    "nameZh": "流氓鱷",
+    "nameEn": "Krookodile",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 554,
+    "nameZh": "火紅不倒翁",
+    "nameEn": "Darumaka",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 555,
+    "nameZh": "達摩狒狒",
+    "nameEn": "Darmanitan",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 556,
+    "nameZh": "沙鈴仙人掌",
+    "nameEn": "Maractus",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 557,
+    "nameZh": "石居蟹",
+    "nameEn": "Dwebble",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 558,
+    "nameZh": "岩殿居蟹",
+    "nameEn": "Crustle",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 559,
+    "nameZh": "滑滑小子",
+    "nameEn": "Scraggy",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 560,
+    "nameZh": "頭巾混混",
+    "nameEn": "Scrafty",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 561,
+    "nameZh": "象徵鳥",
+    "nameEn": "Sigilyph",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 562,
+    "nameZh": "哭哭面具",
+    "nameEn": "Yamask",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 563,
+    "nameZh": "死神棺",
+    "nameEn": "Cofagrigus",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 564,
+    "nameZh": "原蓋海龜",
+    "nameEn": "Tirtouga",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 565,
+    "nameZh": "肋骨海龜",
+    "nameEn": "Carracosta",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 566,
+    "nameZh": "始祖小鳥",
+    "nameEn": "Archen",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 567,
+    "nameZh": "始祖大鳥",
+    "nameEn": "Archeops",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 568,
+    "nameZh": "破破袋",
+    "nameEn": "Trubbish",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 569,
+    "nameZh": "灰塵山",
+    "nameEn": "Garbodor",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 570,
+    "nameZh": "索羅亞",
+    "nameEn": "Zorua",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 571,
+    "nameZh": "索羅亞克",
+    "nameEn": "Zoroark",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 572,
+    "nameZh": "泡沫栗鼠",
+    "nameEn": "Minccino",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 573,
+    "nameZh": "奇諾栗鼠",
+    "nameEn": "Cinccino",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 574,
+    "nameZh": "哥德寶寶",
+    "nameEn": "Gothita",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 575,
+    "nameZh": "哥德小童",
+    "nameEn": "Gothorita",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 576,
+    "nameZh": "哥德小姐",
+    "nameEn": "Gothitelle",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 577,
+    "nameZh": "單卵細胞球",
+    "nameEn": "Solosis",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 578,
+    "nameZh": "雙卵細胞球",
+    "nameEn": "Duosion",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 579,
+    "nameZh": "人造細胞卵",
+    "nameEn": "Reuniclus",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 580,
+    "nameZh": "鴨寶寶",
+    "nameEn": "Ducklett",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 581,
+    "nameZh": "舞天鵝",
+    "nameEn": "Swanna",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 582,
+    "nameZh": "迷你冰",
+    "nameEn": "Vanillite",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 583,
+    "nameZh": "多多冰",
+    "nameEn": "Vanillish",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 584,
+    "nameZh": "雙倍多多冰",
+    "nameEn": "Vanilluxe",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 585,
+    "nameZh": "四季鹿",
+    "nameEn": "Deerling",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 586,
+    "nameZh": "萌芽鹿",
+    "nameEn": "Sawsbuck",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 587,
+    "nameZh": "電飛鼠",
+    "nameEn": "Emolga",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 588,
+    "nameZh": "蓋蓋蟲",
+    "nameEn": "Karrablast",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 589,
+    "nameZh": "騎士蝸牛",
+    "nameEn": "Escavalier",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 590,
+    "nameZh": "哎呀球菇",
+    "nameEn": "Foongus",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 591,
+    "nameZh": "敗露球菇",
+    "nameEn": "Amoonguss",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 592,
+    "nameZh": "輕飄飄",
+    "nameEn": "Frillish",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 593,
+    "nameZh": "胖嘟嘟",
+    "nameEn": "Jellicent",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 594,
+    "nameZh": "保母曼波",
+    "nameEn": "Alomomola",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 595,
+    "nameZh": "電電蟲",
+    "nameEn": "Joltik",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 596,
+    "nameZh": "電蜘蛛",
+    "nameEn": "Galvantula",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 597,
+    "nameZh": "種子鐵球",
+    "nameEn": "Ferroseed",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 598,
+    "nameZh": "堅果啞鈴",
+    "nameEn": "Ferrothorn",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 599,
+    "nameZh": "齒輪兒",
+    "nameEn": "Klink",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 600,
+    "nameZh": "齒輪組",
+    "nameEn": "Klang",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 601,
+    "nameZh": "齒輪怪",
+    "nameEn": "Klinklang",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 602,
+    "nameZh": "麻麻小魚",
+    "nameEn": "Tynamo",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 603,
+    "nameZh": "麻麻鰻",
+    "nameEn": "Eelektrik",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 604,
+    "nameZh": "麻麻鰻魚王",
+    "nameEn": "Eelektross",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 605,
+    "nameZh": "小灰怪",
+    "nameEn": "Elgyem",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 606,
+    "nameZh": "大宇怪",
+    "nameEn": "Beheeyem",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 607,
+    "nameZh": "燭光靈",
+    "nameEn": "Litwick",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 608,
+    "nameZh": "燈火幽靈",
+    "nameEn": "Lampent",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 609,
+    "nameZh": "水晶燈火靈",
+    "nameEn": "Chandelure",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 610,
+    "nameZh": "牙牙",
+    "nameEn": "Axew",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 611,
+    "nameZh": "斧牙龍",
+    "nameEn": "Fraxure",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 612,
+    "nameZh": "雙斧戰龍",
+    "nameEn": "Haxorus",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 613,
+    "nameZh": "噴嚏熊",
+    "nameEn": "Cubchoo",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 614,
+    "nameZh": "凍原熊",
+    "nameEn": "Beartic",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 615,
+    "nameZh": "幾何雪花",
+    "nameEn": "Cryogonal",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 616,
+    "nameZh": "小嘴蝸",
+    "nameEn": "Shelmet",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 617,
+    "nameZh": "敏捷蟲",
+    "nameEn": "Accelgor",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 618,
+    "nameZh": "泥巴魚",
+    "nameEn": "Stunfisk",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 619,
+    "nameZh": "功夫鼬",
+    "nameEn": "Mienfoo",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 620,
+    "nameZh": "師父鼬",
+    "nameEn": "Mienshao",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 621,
+    "nameZh": "赤面龍",
+    "nameEn": "Druddigon",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 622,
+    "nameZh": "泥偶小人",
+    "nameEn": "Golett",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 623,
+    "nameZh": "泥偶巨人",
+    "nameEn": "Golurk",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 624,
+    "nameZh": "駒刀小兵",
+    "nameEn": "Pawniard",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 625,
+    "nameZh": "劈斬司令",
+    "nameEn": "Bisharp",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 626,
+    "nameZh": "爆炸頭水牛",
+    "nameEn": "Bouffalant",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 627,
+    "nameZh": "毛頭小鷹",
+    "nameEn": "Rufflet",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 628,
+    "nameZh": "勇士雄鷹",
+    "nameEn": "Braviary",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 629,
+    "nameZh": "禿鷹丫頭",
+    "nameEn": "Vullaby",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 630,
+    "nameZh": "禿鷹娜",
+    "nameEn": "Mandibuzz",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 631,
+    "nameZh": "熔蟻獸",
+    "nameEn": "Heatmor",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 632,
+    "nameZh": "鐵蟻",
+    "nameEn": "Durant",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 633,
+    "nameZh": "單首龍",
+    "nameEn": "Deino",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 634,
+    "nameZh": "雙首暴龍",
+    "nameEn": "Zweilous",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 635,
+    "nameZh": "三首惡龍",
+    "nameEn": "Hydreigon",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 636,
+    "nameZh": "燃燒蟲",
+    "nameEn": "Larvesta",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 637,
+    "nameZh": "火神蛾",
+    "nameEn": "Volcarona",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 638,
+    "nameZh": "勾帕路翁",
+    "nameEn": "Cobalion",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 639,
+    "nameZh": "代拉基翁",
+    "nameEn": "Terrakion",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 640,
+    "nameZh": "畢力吉翁",
+    "nameEn": "Virizion",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 641,
+    "nameZh": "龍捲雲",
+    "nameEn": "Tornadus",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 642,
+    "nameZh": "雷電雲",
+    "nameEn": "Thundurus",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 643,
+    "nameZh": "萊希拉姆",
+    "nameEn": "Reshiram",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 644,
+    "nameZh": "捷克羅姆",
+    "nameEn": "Zekrom",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 645,
+    "nameZh": "土地雲",
+    "nameEn": "Landorus",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 646,
+    "nameZh": "酋雷姆",
+    "nameEn": "Kyurem",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 647,
+    "nameZh": "凱路迪歐",
+    "nameEn": "Keldeo",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 648,
+    "nameZh": "美洛耶塔",
+    "nameEn": "Meloetta",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 649,
+    "nameZh": "蓋諾賽克特",
+    "nameEn": "Genesect",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 650,
+    "nameZh": "哈力栗",
+    "nameEn": "Chespin",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 651,
+    "nameZh": "胖胖哈力",
+    "nameEn": "Quilladin",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 652,
+    "nameZh": "布里卡隆",
+    "nameEn": "Chesnaught",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 653,
+    "nameZh": "火狐狸",
+    "nameEn": "Fennekin",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 654,
+    "nameZh": "長尾火狐",
+    "nameEn": "Braixen",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 655,
+    "nameZh": "妖火紅狐",
+    "nameEn": "Delphox",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 656,
+    "nameZh": "呱呱泡蛙",
+    "nameEn": "Froakie",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 657,
+    "nameZh": "呱頭蛙",
+    "nameEn": "Frogadier",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 658,
+    "nameZh": "甲賀忍蛙",
+    "nameEn": "Greninja",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 659,
+    "nameZh": "掘掘兔",
+    "nameEn": "Bunnelby",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 660,
+    "nameZh": "掘地兔",
+    "nameEn": "Diggersby",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 661,
+    "nameZh": "小箭雀",
+    "nameEn": "Fletchling",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 662,
+    "nameZh": "火箭雀",
+    "nameEn": "Fletchinder",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 663,
+    "nameZh": "烈箭鷹",
+    "nameEn": "Talonflame",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 664,
+    "nameZh": "粉蝶蟲",
+    "nameEn": "Scatterbug",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 665,
+    "nameZh": "粉蝶蛹",
+    "nameEn": "Spewpa",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 666,
+    "nameZh": "彩粉蝶",
+    "nameEn": "Vivillon",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 667,
+    "nameZh": "小獅獅",
+    "nameEn": "Litleo",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 668,
+    "nameZh": "火炎獅",
+    "nameEn": "Pyroar",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 669,
+    "nameZh": "花蓓蓓",
+    "nameEn": "Flabébé",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 670,
+    "nameZh": "花葉蒂",
+    "nameEn": "Floette",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 671,
+    "nameZh": "花潔夫人",
+    "nameEn": "Florges",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 672,
+    "nameZh": "坐騎小羊",
+    "nameEn": "Skiddo",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 673,
+    "nameZh": "坐騎山羊",
+    "nameEn": "Gogoat",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 674,
+    "nameZh": "頑皮熊貓",
+    "nameEn": "Pancham",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 675,
+    "nameZh": "流氓熊貓",
+    "nameEn": "Pangoro",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 676,
+    "nameZh": "多麗米亞",
+    "nameEn": "Furfrou",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 677,
+    "nameZh": "妙喵",
+    "nameEn": "Espurr",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 678,
+    "nameZh": "超能妙喵",
+    "nameEn": "Meowstic",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 679,
+    "nameZh": "獨劍鞘",
+    "nameEn": "Honedge",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 680,
+    "nameZh": "雙劍鞘",
+    "nameEn": "Doublade",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 681,
+    "nameZh": "堅盾劍怪",
+    "nameEn": "Aegislash",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 682,
+    "nameZh": "粉香香",
+    "nameEn": "Spritzee",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 683,
+    "nameZh": "芳香精",
+    "nameEn": "Aromatisse",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 684,
+    "nameZh": "綿綿泡芙",
+    "nameEn": "Swirlix",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 685,
+    "nameZh": "胖甜妮",
+    "nameEn": "Slurpuff",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 686,
+    "nameZh": "好啦魷",
+    "nameEn": "Inkay",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 687,
+    "nameZh": "烏賊王",
+    "nameEn": "Malamar",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 688,
+    "nameZh": "龜腳腳",
+    "nameEn": "Binacle",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 689,
+    "nameZh": "龜足巨鎧",
+    "nameEn": "Barbaracle",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 690,
+    "nameZh": "垃垃藻",
+    "nameEn": "Skrelp",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 691,
+    "nameZh": "毒藻龍",
+    "nameEn": "Dragalge",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 692,
+    "nameZh": "鐵臂槍蝦",
+    "nameEn": "Clauncher",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 693,
+    "nameZh": "鋼炮臂蝦",
+    "nameEn": "Clawitzer",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 694,
+    "nameZh": "傘電蜥",
+    "nameEn": "Helioptile",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 695,
+    "nameZh": "光電傘蜥",
+    "nameEn": "Heliolisk",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 696,
+    "nameZh": "寶寶暴龍",
+    "nameEn": "Tyrunt",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 697,
+    "nameZh": "怪顎龍",
+    "nameEn": "Tyrantrum",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 698,
+    "nameZh": "冰雪龍",
+    "nameEn": "Amaura",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 699,
+    "nameZh": "冰雪巨龍",
+    "nameEn": "Aurorus",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 700,
+    "nameZh": "仙子伊布",
+    "nameEn": "Sylveon",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 701,
+    "nameZh": "摔角鷹人",
+    "nameEn": "Hawlucha",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 702,
+    "nameZh": "咚咚鼠",
+    "nameEn": "Dedenne",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 703,
+    "nameZh": "小碎鑽",
+    "nameEn": "Carbink",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 704,
+    "nameZh": "黏黏寶",
+    "nameEn": "Goomy",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 705,
+    "nameZh": "黏美兒",
+    "nameEn": "Sliggoo",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 706,
+    "nameZh": "黏美龍",
+    "nameEn": "Goodra",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 707,
+    "nameZh": "鑰圈兒",
+    "nameEn": "Klefki",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 708,
+    "nameZh": "小木靈",
+    "nameEn": "Phantump",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 709,
+    "nameZh": "朽木妖",
+    "nameEn": "Trevenant",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 710,
+    "nameZh": "南瓜精",
+    "nameEn": "Pumpkaboo",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 711,
+    "nameZh": "南瓜怪人",
+    "nameEn": "Gourgeist",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 712,
+    "nameZh": "冰寶",
+    "nameEn": "Bergmite",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 713,
+    "nameZh": "冰岩怪",
+    "nameEn": "Avalugg",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 714,
+    "nameZh": "嗡蝠",
+    "nameEn": "Noibat",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 715,
+    "nameZh": "音波龍",
+    "nameEn": "Noivern",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 716,
+    "nameZh": "哲爾尼亞斯",
+    "nameEn": "Xerneas",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 717,
+    "nameZh": "伊裴爾塔爾",
+    "nameEn": "Yveltal",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 718,
+    "nameZh": "基格爾德",
+    "nameEn": "Zygarde",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 719,
+    "nameZh": "蒂安希",
+    "nameEn": "Diancie",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 720,
+    "nameZh": "胡帕",
+    "nameEn": "Hoopa",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 721,
+    "nameZh": "波爾凱尼恩",
+    "nameEn": "Volcanion",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 722,
+    "nameZh": "木木梟",
+    "nameEn": "Rowlet",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 723,
+    "nameZh": "投羽梟",
+    "nameEn": "Dartrix",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 724,
+    "nameZh": "狙射樹梟",
+    "nameEn": "Decidueye",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 725,
+    "nameZh": "火斑喵",
+    "nameEn": "Litten",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 726,
+    "nameZh": "炎熱喵",
+    "nameEn": "Torracat",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 727,
+    "nameZh": "熾焰咆哮虎",
+    "nameEn": "Incineroar",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 728,
+    "nameZh": "球球海獅",
+    "nameEn": "Popplio",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 729,
+    "nameZh": "花漾海獅",
+    "nameEn": "Brionne",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 730,
+    "nameZh": "西獅海壬",
+    "nameEn": "Primarina",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 731,
+    "nameZh": "小篤兒",
+    "nameEn": "Pikipek",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 732,
+    "nameZh": "喇叭啄鳥",
+    "nameEn": "Trumbeak",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 733,
+    "nameZh": "銃嘴大鳥",
+    "nameEn": "Toucannon",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 734,
+    "nameZh": "貓鼬少",
+    "nameEn": "Yungoos",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 735,
+    "nameZh": "貓鼬探長",
+    "nameEn": "Gumshoos",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 736,
+    "nameZh": "強顎雞母蟲",
+    "nameEn": "Grubbin",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 737,
+    "nameZh": "蟲電寶",
+    "nameEn": "Charjabug",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 738,
+    "nameZh": "鍬農炮蟲",
+    "nameEn": "Vikavolt",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 739,
+    "nameZh": "好勝蟹",
+    "nameEn": "Crabrawler",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 740,
+    "nameZh": "好勝毛蟹",
+    "nameEn": "Crabominable",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 741,
+    "nameZh": "花舞鳥",
+    "nameEn": "Oricorio",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 742,
+    "nameZh": "萌虻",
+    "nameEn": "Cutiefly",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 743,
+    "nameZh": "蝶結萌虻",
+    "nameEn": "Ribombee",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 744,
+    "nameZh": "岩狗狗",
+    "nameEn": "Rockruff",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 745,
+    "nameZh": "鬃岩狼人",
+    "nameEn": "Lycanroc",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 746,
+    "nameZh": "弱丁魚",
+    "nameEn": "Wishiwashi",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 747,
+    "nameZh": "好壞星",
+    "nameEn": "Mareanie",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 748,
+    "nameZh": "超壞星",
+    "nameEn": "Toxapex",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 749,
+    "nameZh": "泥驢仔",
+    "nameEn": "Mudbray",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 750,
+    "nameZh": "重泥挽馬",
+    "nameEn": "Mudsdale",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 751,
+    "nameZh": "滴蛛",
+    "nameEn": "Dewpider",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 752,
+    "nameZh": "滴蛛霸",
+    "nameEn": "Araquanid",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 753,
+    "nameZh": "偽螳草",
+    "nameEn": "Fomantis",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 754,
+    "nameZh": "蘭螳花",
+    "nameEn": "Lurantis",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 755,
+    "nameZh": "睡睡菇",
+    "nameEn": "Morelull",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 756,
+    "nameZh": "燈罩夜菇",
+    "nameEn": "Shiinotic",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 757,
+    "nameZh": "夜盜火蜥",
+    "nameEn": "Salandit",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 758,
+    "nameZh": "焰后蜥",
+    "nameEn": "Salazzle",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 759,
+    "nameZh": "童偶熊",
+    "nameEn": "Stufful",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 760,
+    "nameZh": "穿著熊",
+    "nameEn": "Bewear",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 761,
+    "nameZh": "甜竹竹",
+    "nameEn": "Bounsweet",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 762,
+    "nameZh": "甜舞妮",
+    "nameEn": "Steenee",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 763,
+    "nameZh": "甜冷美后",
+    "nameEn": "Tsareena",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 764,
+    "nameZh": "花療環環",
+    "nameEn": "Comfey",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 765,
+    "nameZh": "智揮猩",
+    "nameEn": "Oranguru",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 766,
+    "nameZh": "投擲猴",
+    "nameEn": "Passimian",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 767,
+    "nameZh": "膽小蟲",
+    "nameEn": "Wimpod",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 768,
+    "nameZh": "具甲武者",
+    "nameEn": "Golisopod",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 769,
+    "nameZh": "沙丘娃",
+    "nameEn": "Sandygast",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 770,
+    "nameZh": "噬沙堡爺",
+    "nameEn": "Palossand",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 771,
+    "nameZh": "拳海參",
+    "nameEn": "Pyukumuku",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 772,
+    "nameZh": "屬性：空",
+    "nameEn": "Type: Null",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 773,
+    "nameZh": "銀伴戰獸",
+    "nameEn": "Silvally",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 774,
+    "nameZh": "小隕星",
+    "nameEn": "Minior",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 775,
+    "nameZh": "樹枕尾熊",
+    "nameEn": "Komala",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 776,
+    "nameZh": "爆焰龜獸",
+    "nameEn": "Turtonator",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 777,
+    "nameZh": "托戈德瑪爾",
+    "nameEn": "Togedemaru",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 778,
+    "nameZh": "謎擬Ｑ",
+    "nameEn": "Mimikyu",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 779,
+    "nameZh": "磨牙彩皮魚",
+    "nameEn": "Bruxish",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 780,
+    "nameZh": "老翁龍",
+    "nameEn": "Drampa",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 781,
+    "nameZh": "破破舵輪",
+    "nameEn": "Dhelmise",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 782,
+    "nameZh": "心鱗寶",
+    "nameEn": "Jangmo-o",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 783,
+    "nameZh": "鱗甲龍",
+    "nameEn": "Hakamo-o",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 784,
+    "nameZh": "杖尾鱗甲龍",
+    "nameEn": "Kommo-o",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 785,
+    "nameZh": "卡璞・鳴鳴",
+    "nameEn": "Tapu Koko",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 786,
+    "nameZh": "卡璞・蝶蝶",
+    "nameEn": "Tapu Lele",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 787,
+    "nameZh": "卡璞・哞哞",
+    "nameEn": "Tapu Bulu",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 788,
+    "nameZh": "卡璞・鰭鰭",
+    "nameEn": "Tapu Fini",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 789,
+    "nameZh": "科斯莫古",
+    "nameEn": "Cosmog",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 790,
+    "nameZh": "科斯莫姆",
+    "nameEn": "Cosmoem",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 791,
+    "nameZh": "索爾迦雷歐",
+    "nameEn": "Solgaleo",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 792,
+    "nameZh": "露奈雅拉",
+    "nameEn": "Lunala",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 793,
+    "nameZh": "虛吾伊德",
+    "nameEn": "Nihilego",
+    "isLegendary": false,
+    "isUltraBeast": true
+  },
+  {
+    "dexNumber": 794,
+    "nameZh": "爆肌蚊",
+    "nameEn": "Buzzwole",
+    "isLegendary": false,
+    "isUltraBeast": true
+  },
+  {
+    "dexNumber": 795,
+    "nameZh": "費洛美螂",
+    "nameEn": "Pheromosa",
+    "isLegendary": false,
+    "isUltraBeast": true
+  },
+  {
+    "dexNumber": 796,
+    "nameZh": "電束木",
+    "nameEn": "Xurkitree",
+    "isLegendary": false,
+    "isUltraBeast": true
+  },
+  {
+    "dexNumber": 797,
+    "nameZh": "鐵火輝夜",
+    "nameEn": "Celesteela",
+    "isLegendary": false,
+    "isUltraBeast": true
+  },
+  {
+    "dexNumber": 798,
+    "nameZh": "紙御劍",
+    "nameEn": "Kartana",
+    "isLegendary": false,
+    "isUltraBeast": true
+  },
+  {
+    "dexNumber": 799,
+    "nameZh": "惡食大王",
+    "nameEn": "Guzzlord",
+    "isLegendary": false,
+    "isUltraBeast": true
+  },
+  {
+    "dexNumber": 800,
+    "nameZh": "奈克洛茲瑪",
+    "nameEn": "Necrozma",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 801,
+    "nameZh": "瑪機雅娜",
+    "nameEn": "Magearna",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 802,
+    "nameZh": "瑪夏多",
+    "nameEn": "Marshadow",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 803,
+    "nameZh": "毒貝比",
+    "nameEn": "Poipole",
+    "isLegendary": false,
+    "isUltraBeast": true
+  },
+  {
+    "dexNumber": 804,
+    "nameZh": "四顎針龍",
+    "nameEn": "Naganadel",
+    "isLegendary": false,
+    "isUltraBeast": true
+  },
+  {
+    "dexNumber": 805,
+    "nameZh": "壘磊石",
+    "nameEn": "Stakataka",
+    "isLegendary": false,
+    "isUltraBeast": true
+  },
+  {
+    "dexNumber": 806,
+    "nameZh": "砰頭小丑",
+    "nameEn": "Blacephalon",
+    "isLegendary": false,
+    "isUltraBeast": true
+  },
+  {
+    "dexNumber": 807,
+    "nameZh": "捷拉奧拉",
+    "nameEn": "Zeraora",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 808,
+    "nameZh": "美錄坦",
+    "nameEn": "Meltan",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 809,
+    "nameZh": "美錄梅塔",
+    "nameEn": "Melmetal",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 810,
+    "nameZh": "敲音猴",
+    "nameEn": "Grookey",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 811,
+    "nameZh": "啪咚猴",
+    "nameEn": "Thwackey",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 812,
+    "nameZh": "轟擂金剛猩",
+    "nameEn": "Rillaboom",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 813,
+    "nameZh": "炎兔兒",
+    "nameEn": "Scorbunny",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 814,
+    "nameZh": "騰蹴小將",
+    "nameEn": "Raboot",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 815,
+    "nameZh": "閃焰王牌",
+    "nameEn": "Cinderace",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 816,
+    "nameZh": "淚眼蜥",
+    "nameEn": "Sobble",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 817,
+    "nameZh": "變澀蜥",
+    "nameEn": "Drizzile",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 818,
+    "nameZh": "千面避役",
+    "nameEn": "Inteleon",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 819,
+    "nameZh": "貪心栗鼠",
+    "nameEn": "Skwovet",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 820,
+    "nameZh": "藏飽栗鼠",
+    "nameEn": "Greedent",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 821,
+    "nameZh": "稚山雀",
+    "nameEn": "Rookidee",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 822,
+    "nameZh": "藍鴉",
+    "nameEn": "Corvisquire",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 823,
+    "nameZh": "鋼鎧鴉",
+    "nameEn": "Corviknight",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 824,
+    "nameZh": "索偵蟲",
+    "nameEn": "Blipbug",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 825,
+    "nameZh": "天罩蟲",
+    "nameEn": "Dottler",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 826,
+    "nameZh": "以歐路普",
+    "nameEn": "Orbeetle",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 827,
+    "nameZh": "偷兒狐",
+    "nameEn": "Nickit",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 828,
+    "nameZh": "狐大盜",
+    "nameEn": "Thievul",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 829,
+    "nameZh": "幼棉棉",
+    "nameEn": "Gossifleur",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 830,
+    "nameZh": "白蓬蓬",
+    "nameEn": "Eldegoss",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 831,
+    "nameZh": "毛辮羊",
+    "nameEn": "Wooloo",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 832,
+    "nameZh": "毛毛角羊",
+    "nameEn": "Dubwool",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 833,
+    "nameZh": "咬咬龜",
+    "nameEn": "Chewtle",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 834,
+    "nameZh": "暴噬龜",
+    "nameEn": "Drednaw",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 835,
+    "nameZh": "來電汪",
+    "nameEn": "Yamper",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 836,
+    "nameZh": "逐電犬",
+    "nameEn": "Boltund",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 837,
+    "nameZh": "小炭仔",
+    "nameEn": "Rolycoly",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 838,
+    "nameZh": "大炭車",
+    "nameEn": "Carkol",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 839,
+    "nameZh": "巨炭山",
+    "nameEn": "Coalossal",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 840,
+    "nameZh": "啃果蟲",
+    "nameEn": "Applin",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 841,
+    "nameZh": "蘋裹龍",
+    "nameEn": "Flapple",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 842,
+    "nameZh": "豐蜜龍",
+    "nameEn": "Appletun",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 843,
+    "nameZh": "沙包蛇",
+    "nameEn": "Silicobra",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 844,
+    "nameZh": "沙螺蟒",
+    "nameEn": "Sandaconda",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 845,
+    "nameZh": "古月鳥",
+    "nameEn": "Cramorant",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 846,
+    "nameZh": "刺梭魚",
+    "nameEn": "Arrokuda",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 847,
+    "nameZh": "戽斗尖梭",
+    "nameEn": "Barraskewda",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 848,
+    "nameZh": "毒電嬰",
+    "nameEn": "Toxel",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 849,
+    "nameZh": "顫弦蠑螈",
+    "nameEn": "Toxtricity",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 850,
+    "nameZh": "燒火蚣",
+    "nameEn": "Sizzlipede",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 851,
+    "nameZh": "焚焰蚣",
+    "nameEn": "Centiskorch",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 852,
+    "nameZh": "拳拳蛸",
+    "nameEn": "Clobbopus",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 853,
+    "nameZh": "八爪武師",
+    "nameEn": "Grapploct",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 854,
+    "nameZh": "來悲茶",
+    "nameEn": "Sinistea",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 855,
+    "nameZh": "怖思壺",
+    "nameEn": "Polteageist",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 856,
+    "nameZh": "迷布莉姆",
+    "nameEn": "Hatenna",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 857,
+    "nameZh": "提布莉姆",
+    "nameEn": "Hattrem",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 858,
+    "nameZh": "布莉姆溫",
+    "nameEn": "Hatterene",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 859,
+    "nameZh": "搗蛋小妖",
+    "nameEn": "Impidimp",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 860,
+    "nameZh": "詐唬魔",
+    "nameEn": "Morgrem",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 861,
+    "nameZh": "長毛巨魔",
+    "nameEn": "Grimmsnarl",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 862,
+    "nameZh": "堵攔熊",
+    "nameEn": "Obstagoon",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 863,
+    "nameZh": "喵頭目",
+    "nameEn": "Perrserker",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 864,
+    "nameZh": "魔靈珊瑚",
+    "nameEn": "Cursola",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 865,
+    "nameZh": "蔥遊兵",
+    "nameEn": "Sirfetch’d",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 866,
+    "nameZh": "踏冰人偶",
+    "nameEn": "Mr. Rime",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 867,
+    "nameZh": "死神板",
+    "nameEn": "Runerigus",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 868,
+    "nameZh": "小仙奶",
+    "nameEn": "Milcery",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 869,
+    "nameZh": "霜奶仙",
+    "nameEn": "Alcremie",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 870,
+    "nameZh": "列陣兵",
+    "nameEn": "Falinks",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 871,
+    "nameZh": "啪嚓海膽",
+    "nameEn": "Pincurchin",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 872,
+    "nameZh": "雪吞蟲",
+    "nameEn": "Snom",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 873,
+    "nameZh": "雪絨蛾",
+    "nameEn": "Frosmoth",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 874,
+    "nameZh": "巨石丁",
+    "nameEn": "Stonjourner",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 875,
+    "nameZh": "冰砌鵝",
+    "nameEn": "Eiscue",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 876,
+    "nameZh": "愛管侍",
+    "nameEn": "Indeedee",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 877,
+    "nameZh": "莫魯貝可",
+    "nameEn": "Morpeko",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 878,
+    "nameZh": "銅象",
+    "nameEn": "Cufant",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 879,
+    "nameZh": "大王銅象",
+    "nameEn": "Copperajah",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 880,
+    "nameZh": "雷鳥龍",
+    "nameEn": "Dracozolt",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 881,
+    "nameZh": "雷鳥海獸",
+    "nameEn": "Arctozolt",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 882,
+    "nameZh": "鰓魚龍",
+    "nameEn": "Dracovish",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 883,
+    "nameZh": "鰓魚海獸",
+    "nameEn": "Arctovish",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 884,
+    "nameZh": "鋁鋼龍",
+    "nameEn": "Duraludon",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 885,
+    "nameZh": "多龍梅西亞",
+    "nameEn": "Dreepy",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 886,
+    "nameZh": "多龍奇",
+    "nameEn": "Drakloak",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 887,
+    "nameZh": "多龍巴魯托",
+    "nameEn": "Dragapult",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 888,
+    "nameZh": "蒼響",
+    "nameEn": "Zacian",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 889,
+    "nameZh": "藏瑪然特",
+    "nameEn": "Zamazenta",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 890,
+    "nameZh": "無極汰那",
+    "nameEn": "Eternatus",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 891,
+    "nameZh": "熊徒弟",
+    "nameEn": "Kubfu",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 892,
+    "nameZh": "武道熊師",
+    "nameEn": "Urshifu",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 893,
+    "nameZh": "薩戮德",
+    "nameEn": "Zarude",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 894,
+    "nameZh": "雷吉艾勒奇",
+    "nameEn": "Regieleki",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 895,
+    "nameZh": "雷吉鐸拉戈",
+    "nameEn": "Regidrago",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 896,
+    "nameZh": "雪暴馬",
+    "nameEn": "Glastrier",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 897,
+    "nameZh": "靈幽馬",
+    "nameEn": "Spectrier",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 898,
+    "nameZh": "蕾冠王",
+    "nameEn": "Calyrex",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 899,
+    "nameZh": "詭角鹿",
+    "nameEn": "Wyrdeer",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 900,
+    "nameZh": "劈斧螳螂",
+    "nameEn": "Kleavor",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 901,
+    "nameZh": "月月熊",
+    "nameEn": "Ursaluna",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 902,
+    "nameZh": "幽尾玄魚",
+    "nameEn": "Basculegion",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 903,
+    "nameZh": "大狃拉",
+    "nameEn": "Sneasler",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 904,
+    "nameZh": "萬針魚",
+    "nameEn": "Overqwil",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 905,
+    "nameZh": "眷戀雲",
+    "nameEn": "Enamorus",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 906,
+    "nameZh": "新葉喵",
+    "nameEn": "Sprigatito",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 907,
+    "nameZh": "蒂蕾喵",
+    "nameEn": "Floragato",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 908,
+    "nameZh": "魔幻假面喵",
+    "nameEn": "Meowscarada",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 909,
+    "nameZh": "呆火鱷",
+    "nameEn": "Fuecoco",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 910,
+    "nameZh": "炙燙鱷",
+    "nameEn": "Crocalor",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 911,
+    "nameZh": "骨紋巨聲鱷",
+    "nameEn": "Skeledirge",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 912,
+    "nameZh": "潤水鴨",
+    "nameEn": "Quaxly",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 913,
+    "nameZh": "湧躍鴨",
+    "nameEn": "Quaxwell",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 914,
+    "nameZh": "狂歡浪舞鴨",
+    "nameEn": "Quaquaval",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 915,
+    "nameZh": "愛吃豚",
+    "nameEn": "Lechonk",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 916,
+    "nameZh": "飄香豚",
+    "nameEn": "Oinkologne",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 917,
+    "nameZh": "團珠蛛",
+    "nameEn": "Tarountula",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 918,
+    "nameZh": "操陷蛛",
+    "nameEn": "Spidops",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 919,
+    "nameZh": "豆蟋蟀",
+    "nameEn": "Nymble",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 920,
+    "nameZh": "烈腿蝗",
+    "nameEn": "Lokix",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 921,
+    "nameZh": "布撥",
+    "nameEn": "Pawmi",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 922,
+    "nameZh": "布土撥",
+    "nameEn": "Pawmo",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 923,
+    "nameZh": "巴布土撥",
+    "nameEn": "Pawmot",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 924,
+    "nameZh": "一對鼠",
+    "nameEn": "Tandemaus",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 925,
+    "nameZh": "一家鼠",
+    "nameEn": "Maushold",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 926,
+    "nameZh": "狗仔包",
+    "nameEn": "Fidough",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 927,
+    "nameZh": "麻花犬",
+    "nameEn": "Dachsbun",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 928,
+    "nameZh": "迷你芙",
+    "nameEn": "Smoliv",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 929,
+    "nameZh": "奧利紐",
+    "nameEn": "Dolliv",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 930,
+    "nameZh": "奧利瓦",
+    "nameEn": "Arboliva",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 931,
+    "nameZh": "怒鸚哥",
+    "nameEn": "Squawkabilly",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 932,
+    "nameZh": "鹽石寶",
+    "nameEn": "Nacli",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 933,
+    "nameZh": "鹽石壘",
+    "nameEn": "Naclstack",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 934,
+    "nameZh": "鹽石巨靈",
+    "nameEn": "Garganacl",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 935,
+    "nameZh": "炭小侍",
+    "nameEn": "Charcadet",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 936,
+    "nameZh": "紅蓮鎧騎",
+    "nameEn": "Armarouge",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 937,
+    "nameZh": "蒼炎刃鬼",
+    "nameEn": "Ceruledge",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 938,
+    "nameZh": "光蚪仔",
+    "nameEn": "Tadbulb",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 939,
+    "nameZh": "電肚蛙",
+    "nameEn": "Bellibolt",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 940,
+    "nameZh": "電海燕",
+    "nameEn": "Wattrel",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 941,
+    "nameZh": "大電海燕",
+    "nameEn": "Kilowattrel",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 942,
+    "nameZh": "偶叫獒",
+    "nameEn": "Maschiff",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 943,
+    "nameZh": "獒教父",
+    "nameEn": "Mabosstiff",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 944,
+    "nameZh": "滋汁鼴",
+    "nameEn": "Shroodle",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 945,
+    "nameZh": "塗標客",
+    "nameEn": "Grafaiai",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 946,
+    "nameZh": "納噬草",
+    "nameEn": "Bramblin",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 947,
+    "nameZh": "怖納噬草",
+    "nameEn": "Brambleghast",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 948,
+    "nameZh": "原野水母",
+    "nameEn": "Toedscool",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 949,
+    "nameZh": "陸地水母",
+    "nameEn": "Toedscruel",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 950,
+    "nameZh": "毛崖蟹",
+    "nameEn": "Klawf",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 951,
+    "nameZh": "熱辣娃",
+    "nameEn": "Capsakid",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 952,
+    "nameZh": "狠辣椒",
+    "nameEn": "Scovillain",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 953,
+    "nameZh": "蟲滾泥",
+    "nameEn": "Rellor",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 954,
+    "nameZh": "蟲甲聖",
+    "nameEn": "Rabsca",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 955,
+    "nameZh": "飄飄雛",
+    "nameEn": "Flittle",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 956,
+    "nameZh": "超能艷鴕",
+    "nameEn": "Espathra",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 957,
+    "nameZh": "小鍛匠",
+    "nameEn": "Tinkatink",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 958,
+    "nameZh": "巧鍛匠",
+    "nameEn": "Tinkatuff",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 959,
+    "nameZh": "巨鍛匠",
+    "nameEn": "Tinkaton",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 960,
+    "nameZh": "海地鼠",
+    "nameEn": "Wiglett",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 961,
+    "nameZh": "三海地鼠",
+    "nameEn": "Wugtrio",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 962,
+    "nameZh": "下石鳥",
+    "nameEn": "Bombirdier",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 963,
+    "nameZh": "波普海豚",
+    "nameEn": "Finizen",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 964,
+    "nameZh": "海豚俠",
+    "nameEn": "Palafin",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 965,
+    "nameZh": "噗隆隆",
+    "nameEn": "Varoom",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 966,
+    "nameZh": "普隆隆姆",
+    "nameEn": "Revavroom",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 967,
+    "nameZh": "摩托蜥",
+    "nameEn": "Cyclizar",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 968,
+    "nameZh": "拖拖蚓",
+    "nameEn": "Orthworm",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 969,
+    "nameZh": "晶光芽",
+    "nameEn": "Glimmet",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 970,
+    "nameZh": "晶光花",
+    "nameEn": "Glimmora",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 971,
+    "nameZh": "墓仔狗",
+    "nameEn": "Greavard",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 972,
+    "nameZh": "墓揚犬",
+    "nameEn": "Houndstone",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 973,
+    "nameZh": "纏紅鶴",
+    "nameEn": "Flamigo",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 974,
+    "nameZh": "走鯨",
+    "nameEn": "Cetoddle",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 975,
+    "nameZh": "浩大鯨",
+    "nameEn": "Cetitan",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 976,
+    "nameZh": "輕身鱈",
+    "nameEn": "Veluza",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 977,
+    "nameZh": "吃吼霸",
+    "nameEn": "Dondozo",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 978,
+    "nameZh": "米立龍",
+    "nameEn": "Tatsugiri",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 979,
+    "nameZh": "棄世猴",
+    "nameEn": "Annihilape",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 980,
+    "nameZh": "土王",
+    "nameEn": "Clodsire",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 981,
+    "nameZh": "奇麒麟",
+    "nameEn": "Farigiraf",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 982,
+    "nameZh": "土龍節節",
+    "nameEn": "Dudunsparce",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 983,
+    "nameZh": "仆刀將軍",
+    "nameEn": "Kingambit",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 984,
+    "nameZh": "雄偉牙",
+    "nameEn": "Great Tusk",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 985,
+    "nameZh": "吼叫尾",
+    "nameEn": "Scream Tail",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 986,
+    "nameZh": "猛惡菇",
+    "nameEn": "Brute Bonnet",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 987,
+    "nameZh": "振翼髮",
+    "nameEn": "Flutter Mane",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 988,
+    "nameZh": "爬地翅",
+    "nameEn": "Slither Wing",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 989,
+    "nameZh": "沙鐵皮",
+    "nameEn": "Sandy Shocks",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 990,
+    "nameZh": "鐵轍跡",
+    "nameEn": "Iron Treads",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 991,
+    "nameZh": "鐵包袱",
+    "nameEn": "Iron Bundle",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 992,
+    "nameZh": "鐵臂膀",
+    "nameEn": "Iron Hands",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 993,
+    "nameZh": "鐵脖頸",
+    "nameEn": "Iron Jugulis",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 994,
+    "nameZh": "鐵毒蛾",
+    "nameEn": "Iron Moth",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 995,
+    "nameZh": "鐵荊棘",
+    "nameEn": "Iron Thorns",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 996,
+    "nameZh": "涼脊龍",
+    "nameEn": "Frigibax",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 997,
+    "nameZh": "凍脊龍",
+    "nameEn": "Arctibax",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 998,
+    "nameZh": "戟脊龍",
+    "nameEn": "Baxcalibur",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 999,
+    "nameZh": "索財靈",
+    "nameEn": "Gimmighoul",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 1000,
+    "nameZh": "賽富豪",
+    "nameEn": "Gholdengo",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 1001,
+    "nameZh": "古簡蝸",
+    "nameEn": "Wo-Chien",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 1002,
+    "nameZh": "古劍豹",
+    "nameEn": "Chien-Pao",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 1003,
+    "nameZh": "古鼎鹿",
+    "nameEn": "Ting-Lu",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 1004,
+    "nameZh": "古玉魚",
+    "nameEn": "Chi-Yu",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 1005,
+    "nameZh": "轟鳴月",
+    "nameEn": "Roaring Moon",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 1006,
+    "nameZh": "鐵武者",
+    "nameEn": "Iron Valiant",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 1007,
+    "nameZh": "故勒頓",
+    "nameEn": "Koraidon",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 1008,
+    "nameZh": "密勒頓",
+    "nameEn": "Miraidon",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 1009,
+    "nameZh": "波盪水",
+    "nameEn": "Walking Wake",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 1010,
+    "nameZh": "鐵斑葉",
+    "nameEn": "Iron Leaves",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 1011,
+    "nameZh": "裹蜜蟲",
+    "nameEn": "Dipplin",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 1012,
+    "nameZh": "斯魔茶",
+    "nameEn": "Poltchageist",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 1013,
+    "nameZh": "來悲粗茶",
+    "nameEn": "Sinistcha",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 1014,
+    "nameZh": "夠讚狗",
+    "nameEn": "Okidogi",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 1015,
+    "nameZh": "願增猿",
+    "nameEn": "Munkidori",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 1016,
+    "nameZh": "吉雉雞",
+    "nameEn": "Fezandipiti",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 1017,
+    "nameZh": "厄鬼椪",
+    "nameEn": "Ogerpon",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 1018,
+    "nameZh": "鋁鋼橋龍",
+    "nameEn": "Archaludon",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 1019,
+    "nameZh": "蜜集大蛇",
+    "nameEn": "Hydrapple",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 1020,
+    "nameZh": "破空焰",
+    "nameEn": "Gouging Fire",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 1021,
+    "nameZh": "猛雷鼓",
+    "nameEn": "Raging Bolt",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 1022,
+    "nameZh": "铁磐岩",
+    "nameEn": "Iron Boulder",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 1023,
+    "nameZh": "铁头壳",
+    "nameEn": "Iron Crown",
+    "isLegendary": false,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 1024,
+    "nameZh": "太樂巴戈斯",
+    "nameEn": "Terapagos",
+    "isLegendary": true,
+    "isUltraBeast": false
+  },
+  {
+    "dexNumber": 1025,
+    "nameZh": "桃歹郎",
+    "nameEn": "Pecharunt",
+    "isLegendary": true,
+    "isUltraBeast": false
+  }
+]
