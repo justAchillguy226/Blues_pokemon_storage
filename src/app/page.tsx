@@ -62,6 +62,13 @@ export default function BluesPokemonStoragePage() {
   // Full-size screenshot lightbox preview
   const [lightboxItem, setLightboxItem] = useState<PokemonStorageItem | null>(null);
 
+  // Client-only Reservation Modal state (僅客戶端未登入可使用，主控端看不到)
+  const [reservingItem, setReservingItem] = useState<PokemonStorageItem | null>(null);
+  const [reserveThreadsCode, setReserveThreadsCode] = useState('');
+  const [reserveAgreed, setReserveAgreed] = useState(false);
+  const [reserveError, setReserveError] = useState('');
+  const [reserving, setReserving] = useState(false);
+
   // Add/Edit Form fields
   const [speciesSearch, setSpeciesSearch] = useState('');
   const [formDexNumber, setFormDexNumber] = useState<number>(1);
@@ -139,6 +146,7 @@ export default function BluesPokemonStoragePage() {
       } else {
         setIsAdmin(true);
         setShowLoginModal(false);
+        setReservingItem(null);
         setAdminPasswordInput('');
         setLoginError('');
         flashMessage('🔓 管理員登入成功！已解鎖編輯權限');
@@ -156,6 +164,71 @@ export default function BluesPokemonStoragePage() {
     setShowFormModal(false);
     setShowAccountInput(false);
     flashMessage('🔒 已登出管理員模式（目前為訪客唯讀視角）');
+  }
+
+  function openReserveModal(item: PokemonStorageItem) {
+    if (isAdmin || item.status !== 'sold') return;
+    setReservingItem(item);
+    setReserveThreadsCode('');
+    setReserveAgreed(false);
+    setReserveError('');
+  }
+
+  function formatDeclarationPrice(rawPrice: string): string {
+    const trimmed = (rawPrice || '50NTD').trim();
+    const withoutNtd = trimmed.replace(/\s*NTD$/i, '').trim();
+    return `${withoutNtd || '50'} NTD`;
+  }
+
+  async function handleReserveSubmit(e: React.FormEvent) {
+    e.preventDefault();
+    if (isAdmin || !reservingItem) return;
+    if (reservingItem.status !== 'sold') {
+      setReserveError('只有標示為「出售」的寶可夢才能進行預約！');
+      return;
+    }
+
+    const cleanThreads = reserveThreadsCode.trim().replace(/^@+/, '');
+    if (cleanThreads.length < 5 || cleanThreads.length > 7) {
+      setReserveError(
+        `Threads 帳號前 5～7 碼字元數不符（目前為 ${cleanThreads.length} 碼），請填入 5～7 個字元！`
+      );
+      return;
+    }
+
+    if (!reserveAgreed) {
+      setReserveError('請先勾選確認同意下方預約聲明！');
+      return;
+    }
+
+    setReserving(true);
+    setReserveError('');
+    try {
+      const res = await fetch('/api/pokemon/reserve', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          id: reservingItem.id,
+          threadsCode: cleanThreads,
+        }),
+      });
+      const data = await res.json();
+      if (!res.ok) {
+        setReserveError(data.error || '預約失敗，請稍後再試');
+      } else {
+        setItems((prev) =>
+          prev.map((it) => (it.id === reservingItem.id ? data.item : it))
+        );
+        setReservingItem(null);
+        flashMessage(
+          `🎉 預約成功！已為 Threads 帳號「${cleanThreads}」保留「${reservingItem.nameZh}」！`
+        );
+      }
+    } catch {
+      setReserveError('網路連線異常，請稍後再試');
+    } finally {
+      setReserving(false);
+    }
   }
 
   function handleExportBackup() {
@@ -1237,6 +1310,7 @@ export default function BluesPokemonStoragePage() {
                 onDelete={isAdmin ? (id) => handleDeletePokemon(id) : undefined}
                 onUpdateScreenshot={isAdmin ? handleQuickUpdateScreenshot : undefined}
                 onPreviewScreenshot={(it) => setLightboxItem(it)}
+                onReserve={!isAdmin ? (it) => openReserveModal(it) : undefined}
               />
             ))}
           </div>
@@ -2278,6 +2352,297 @@ export default function BluesPokemonStoragePage() {
           </div>
         </div>
       )}
+
+      {/* Client-Only Reservation Modal (僅客戶端未登入買家可見，主控端看不到) */}
+      {!isAdmin && reservingItem && reservingItem.status === 'sold' && (() => {
+        const cleanThreads = reserveThreadsCode.trim().replace(/^@+/, '');
+        const isThreadsLengthValid =
+          cleanThreads.length >= 5 && cleanThreads.length <= 7;
+        const canConfirmReserve = isThreadsLengthValid && reserveAgreed && !reserving;
+
+        return (
+          <div
+            onClick={() => setReservingItem(null)}
+            style={{
+              position: 'fixed',
+              inset: 0,
+              background: 'rgba(15, 23, 42, 0.6)',
+              zIndex: 60,
+              display: 'flex',
+              alignItems: 'center',
+              justifyContent: 'center',
+              padding: '16px',
+            }}
+          >
+            <div
+              onClick={(e) => e.stopPropagation()}
+              style={{
+                background: '#ffffff',
+                borderRadius: '14px',
+                maxWidth: '460px',
+                width: '100%',
+                maxHeight: '92vh',
+                overflowY: 'auto',
+                padding: '22px',
+                boxShadow: '0 20px 45px rgba(0,0,0,0.3)',
+              }}
+            >
+              <div
+                style={{
+                  display: 'flex',
+                  justifyContent: 'space-between',
+                  alignItems: 'center',
+                  borderBottom: '1px solid #e2e8f0',
+                  paddingBottom: '12px',
+                  marginBottom: '16px',
+                }}
+              >
+                <h3 style={{ fontSize: '18px', fontWeight: 800, margin: 0, color: '#0f172a' }}>
+                  🙋 預約寶可夢確認
+                </h3>
+                <button
+                  type="button"
+                  onClick={() => setReservingItem(null)}
+                  style={{
+                    border: '1px solid #cbd5e1',
+                    background: '#f8fafc',
+                    borderRadius: '6px',
+                    padding: '3px 8px',
+                    cursor: 'pointer',
+                    fontWeight: 700,
+                  }}
+                >
+                  ✕
+                </button>
+              </div>
+
+              {/* Target Pokemon Summary */}
+              <div
+                style={{
+                  display: 'flex',
+                  alignItems: 'center',
+                  justifyContent: 'space-between',
+                  background: '#ecfdf5',
+                  border: '1px solid #6ee7b7',
+                  borderRadius: '10px',
+                  padding: '10px 14px',
+                  marginBottom: '16px',
+                }}
+              >
+                <div>
+                  <div style={{ fontSize: '15px', fontWeight: 800, color: '#065f46' }}>
+                    {formatDexNumber(reservingItem.dexNumber)} {reservingItem.nameZh}{' '}
+                    {reservingItem.isShiny ? '✨' : ''}
+                  </div>
+                  <div style={{ fontSize: '12px', color: '#047857', marginTop: '2px' }}>
+                    所屬帳號：👤 {reservingItem.account}
+                  </div>
+                </div>
+                <div
+                  style={{
+                    fontSize: '14px',
+                    fontWeight: 800,
+                    color: '#047857',
+                    background: '#ffffff',
+                    padding: '4px 10px',
+                    borderRadius: '8px',
+                    border: '1px solid #34d399',
+                  }}
+                >
+                  💰 出售：{formatDeclarationPrice(reservingItem.soldPrice)}
+                </div>
+              </div>
+
+              <form onSubmit={handleReserveSubmit}>
+                {/* Step 1: Threads 5-7 chars */}
+                <div style={{ marginBottom: '16px' }}>
+                  <label
+                    style={{
+                      display: 'block',
+                      fontSize: '14px',
+                      fontWeight: 700,
+                      color: '#1e293b',
+                      marginBottom: '6px',
+                    }}
+                  >
+                    1. 請填入您的 Threads 帳號「前 5 ～ 7 碼」：
+                  </label>
+                  <input
+                    type="text"
+                    autoFocus
+                    value={reserveThreadsCode}
+                    onChange={(e) => {
+                      setReserveThreadsCode(e.target.value);
+                      setReserveError('');
+                    }}
+                    placeholder="請輸入 5 ～ 7 個字元（例：blues_9）"
+                    style={{
+                      width: '100%',
+                      padding: '10px 12px',
+                      border:
+                        cleanThreads.length === 0
+                          ? '1.5px solid #cbd5e1'
+                          : isThreadsLengthValid
+                          ? '1.5px solid #10b981'
+                          : '1.5px solid #ef4444',
+                      borderRadius: '8px',
+                      fontSize: '15px',
+                      boxSizing: 'border-box',
+                      outline: 'none',
+                    }}
+                  />
+                  <div
+                    style={{
+                      marginTop: '6px',
+                      fontSize: '12.5px',
+                      fontWeight: 600,
+                      color:
+                        cleanThreads.length === 0
+                          ? '#64748b'
+                          : isThreadsLengthValid
+                          ? '#059669'
+                          : '#dc2626',
+                    }}
+                  >
+                    {cleanThreads.length === 0
+                      ? '⚠️ 字元數必須在 5 ～ 7 碼範圍內才開放預約'
+                      : isThreadsLengthValid
+                      ? `✅ 字元數符合規定（目前輸入：${cleanThreads.length} 碼）`
+                      : `❌ 字元數不符（目前輸入：${cleanThreads.length} 碼，必須為 5 ～ 7 碼）`}
+                  </div>
+                </div>
+
+                {/* Step 2: Reservation Declaration (預約聲明) */}
+                <div
+                  style={{
+                    background: '#fffbeb',
+                    border: '1.5px solid #fcd34d',
+                    borderRadius: '10px',
+                    padding: '14px',
+                    marginBottom: '14px',
+                  }}
+                >
+                  <div
+                    style={{
+                      fontSize: '14.5px',
+                      fontWeight: 800,
+                      color: '#92400e',
+                      marginBottom: '8px',
+                    }}
+                  >
+                    📋 預約聲明（最後確認）：
+                  </div>
+                  <ol
+                    style={{
+                      margin: 0,
+                      paddingLeft: '20px',
+                      fontSize: '13.5px',
+                      lineHeight: '1.75',
+                      color: '#78350f',
+                      fontWeight: 600,
+                    }}
+                  >
+                    <li>確定你可以郵局轉帳，不收8591</li>
+                    <li>
+                      確認金額{' '}
+                      <span
+                        style={{
+                          color: '#b91c1c',
+                          fontWeight: 800,
+                          textDecoration: 'underline',
+                        }}
+                      >
+                        {formatDeclarationPrice(reservingItem.soldPrice)}
+                      </span>
+                    </li>
+                    <li>幫推一下拜託</li>
+                    <li>網站還在測試階段，請不要公開連結以防宵小</li>
+                  </ol>
+
+                  <label
+                    style={{
+                      display: 'flex',
+                      alignItems: 'center',
+                      gap: '8px',
+                      marginTop: '12px',
+                      paddingTop: '10px',
+                      borderTop: '1px dashed #fbbf24',
+                      cursor: 'pointer',
+                      fontSize: '13.5px',
+                      fontWeight: 700,
+                      color: '#1e293b',
+                      userSelect: 'none',
+                    }}
+                  >
+                    <input
+                      type="checkbox"
+                      checked={reserveAgreed}
+                      onChange={(e) => {
+                        setReserveAgreed(e.target.checked);
+                        setReserveError('');
+                      }}
+                      style={{ width: '16px', height: '16px', cursor: 'pointer' }}
+                    />
+                    我已閱讀並同意上述 4 點預約聲明
+                  </label>
+                </div>
+
+                {reserveError && (
+                  <div
+                    style={{
+                      color: '#b91c1c',
+                      background: '#fef2f2',
+                      border: '1px solid #fecaca',
+                      borderRadius: '8px',
+                      padding: '8px 12px',
+                      fontSize: '13px',
+                      fontWeight: 700,
+                      marginBottom: '12px',
+                    }}
+                  >
+                    ⚠️ {reserveError}
+                  </div>
+                )}
+
+                <div style={{ display: 'flex', justifyContent: 'flex-end', gap: '8px' }}>
+                  <button
+                    type="button"
+                    onClick={() => setReservingItem(null)}
+                    style={{
+                      padding: '8px 16px',
+                      borderRadius: '8px',
+                      border: '1px solid #cbd5e1',
+                      background: '#ffffff',
+                      cursor: 'pointer',
+                      fontWeight: 600,
+                    }}
+                  >
+                    取消
+                  </button>
+                  <button
+                    type="submit"
+                    disabled={!canConfirmReserve}
+                    style={{
+                      padding: '8px 18px',
+                      borderRadius: '8px',
+                      border: canConfirmReserve
+                        ? '1px solid #059669'
+                        : '1px solid #cbd5e1',
+                      background: canConfirmReserve ? '#10b981' : '#e2e8f0',
+                      color: canConfirmReserve ? '#ffffff' : '#94a3b8',
+                      cursor: canConfirmReserve ? 'pointer' : 'not-allowed',
+                      fontWeight: 700,
+                      fontSize: '14px',
+                    }}
+                  >
+                    {reserving ? '預約送出中...' : '✅ 確認預約'}
+                  </button>
+                </div>
+              </form>
+            </div>
+          </div>
+        );
+      })()}
 
       {/* Full-Screen Screenshot Lightbox Modal */}
       {lightboxItem && lightboxItem.screenshotUrl && (

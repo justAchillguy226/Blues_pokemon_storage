@@ -257,6 +257,7 @@ export function PokemonCard({
   onDelete,
   onUpdateScreenshot,
   onPreviewScreenshot,
+  onReserve,
 }: {
   item: PokemonStorageItem;
   selected?: boolean;
@@ -265,6 +266,7 @@ export function PokemonCard({
   onDelete?: (id: string) => void;
   onUpdateScreenshot?: (item: PokemonStorageItem, screenshotUrl: string) => void;
   onPreviewScreenshot?: (item: PokemonStorageItem) => void;
+  onReserve?: (item: PokemonStorageItem) => void;
 }) {
   const fileInputRef = useRef<HTMLInputElement | null>(null);
   const [dragOver, setDragOver] = useState(false);
@@ -787,6 +789,40 @@ export function PokemonCard({
               </div>
             </button>
           )}
+        </div>
+      )}
+
+      {/* Client-Only Reserve Button (僅客戶端未登入且為「出售」狀態時顯示，主控端看不到) */}
+      {onReserve && item.status === 'sold' && (
+        <div
+          onClick={(e) => e.stopPropagation()}
+          style={{
+            position: 'relative',
+            zIndex: 2,
+            width: '100%',
+            marginTop: '8px',
+            paddingTop: '6px',
+            borderTop: '1px solid rgba(16, 185, 129, 0.25)',
+          }}
+        >
+          <button
+            type="button"
+            onClick={() => onReserve(item)}
+            style={{
+              width: '100%',
+              padding: '6px 10px',
+              borderRadius: '6px',
+              border: '1px solid #059669',
+              background: '#10b981',
+              color: '#ffffff',
+              fontSize: '12.5px',
+              fontWeight: 700,
+              cursor: 'pointer',
+              boxShadow: '0 1px 2px rgba(0,0,0,0.1)',
+            }}
+          >
+            🙋 預約此寶可夢 ({item.soldPrice || '50NTD'})
+          </button>
         </div>
       )}
 
